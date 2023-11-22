@@ -1,0 +1,41 @@
+
+Icon-LoDe.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 57
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 359, 115
+  size: 134, 142
+  orig: 134, 142
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 196, 67
+  size: 182, 161
+  orig: 182, 161
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 196, 2
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 359, 37
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1

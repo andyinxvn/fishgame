@@ -1,0 +1,124 @@
+{
+"skeleton": { "hash": "0p9xd/rIkKYeCe9VYBXB/XJrbdw", "spine": "3.5.51", "width": 110, "height": 108, "images": "./../Images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone13", "parent": "root", "length": 110.06, "rotation": 49.42, "x": -7.65, "y": 5.01, "color": "004cffff" },
+	{ "name": "bone14", "parent": "root", "length": 52.26, "rotation": 104.98, "x": -9.43, "y": 2.13, "color": "004cffff" },
+	{ "name": "bone15", "parent": "root", "length": 46.88, "rotation": 55.08, "x": 3.75, "y": -35.64, "color": "004cffff" }
+],
+"slots": [
+	{ "name": "TOP HU LIGHT", "bone": "bone13", "attachment": "TOP HU LIGHT" },
+	{ "name": "TOP HU RUONG1", "bone": "bone14", "attachment": "TOP HU RUONG1" },
+	{ "name": "TOP HU RUONG2", "bone": "bone14" },
+	{ "name": "TOP HU RUONG3", "bone": "bone14" },
+	{ "name": "TOPHU TEXT2", "bone": "bone15", "attachment": "TOPHU TEXT" }
+],
+"skins": {
+	"default": {
+		"TOP HU LIGHT": {
+			"TOP HU LIGHT": { "x": 1.17, "y": -9.07, "rotation": -49.42, "width": 110, "height": 108 }
+		},
+		"TOP HU RUONG1": {
+			"TOP HU RUONG1": { "x": -1.76, "y": -6.8, "rotation": -104.98, "width": 80, "height": 59 }
+		},
+		"TOP HU RUONG2": {
+			"TOP HU RUONG2": { "x": 3.63, "y": -8.25, "rotation": -104.98, "width": 80, "height": 71 }
+		},
+		"TOP HU RUONG3": {
+			"TOP HU RUONG3": { "x": 5, "y": -8.1, "rotation": -104.98, "width": 80, "height": 74 }
+		},
+		"TOPHU TEXT2": {
+			"TOPHU TEXT": { "x": 2.84, "y": 4.01, "rotation": -55.08, "width": 88, "height": 29 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"TOP HU RUONG1": {
+				"attachment": [
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.4333, "name": "TOP HU RUONG1" },
+					{ "time": 0.7667, "name": null },
+					{ "time": 1.1333, "name": "TOP HU RUONG1" }
+				]
+			},
+			"TOP HU RUONG2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TOP HU RUONG2" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.3667, "name": "TOP HU RUONG2" },
+					{ "time": 0.4333, "name": null },
+					{ "time": 0.7667, "name": "TOP HU RUONG2" },
+					{ "time": 0.8333, "name": null },
+					{ "time": 1.0667, "name": "TOP HU RUONG2" },
+					{ "time": 1.1333, "name": null }
+				]
+			},
+			"TOP HU RUONG3": {
+				"attachment": [
+					{ "time": 0.1333, "name": "TOP HU RUONG3" },
+					{ "time": 0.3667, "name": null },
+					{ "time": 0.8333, "name": "TOP HU RUONG3" },
+					{ "time": 1.0667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"bone13": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 7.65, "y": -5.01, "curve": "stepped" },
+					{ "time": 1, "x": 7.65, "y": -5.01, "curve": "stepped" },
+					{ "time": 2, "x": 7.65, "y": -5.01 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1.28, "y": 1.28 },
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			},
+			"bone14": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"bone15": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.077, "y": 1.077 },
+					{ "time": 1, "x": 0.852, "y": 0.852 },
+					{ "time": 2, "x": 1.077, "y": 1.077 }
+				]
+			}
+		}
+	}
+}
+}

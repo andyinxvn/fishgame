@@ -1,0 +1,27 @@
+
+OTO_ANIM.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHU
+  rotate: false
+  xy: 546, 158
+  size: 193, 65
+  orig: 193, 65
+  offset: 0, 0
+  index: -1
+OTO
+  rotate: false
+  xy: 2, 2
+  size: 292, 221
+  orig: 292, 221
+  offset: 0, 0
+  index: -1
+lightcirrcle
+  rotate: false
+  xy: 296, 10
+  size: 248, 213
+  orig: 248, 213
+  offset: 0, 0
+  index: -1

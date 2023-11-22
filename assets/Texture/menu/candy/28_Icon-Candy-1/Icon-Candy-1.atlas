@@ -1,0 +1,13 @@
+
+Icon-Candy-1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 216, 135
+  orig: 216, 135
+  offset: 0, 0
+  index: -1

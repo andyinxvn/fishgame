@@ -1,0 +1,90 @@
+
+icon_minipoker.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_minipoker
+  rotate: false
+  xy: 2, 49
+  size: 215, 205
+  orig: 215, 205
+  offset: 0, 0
+  index: -1
+cangat
+  rotate: true
+  xy: 762, 217
+  size: 37, 70
+  orig: 37, 70
+  offset: 0, 0
+  index: -1
+co
+  rotate: true
+  xy: 61, 2
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 414, 158
+  size: 167, 96
+  orig: 167, 96
+  offset: 0, 0
+  index: -1
+mayslot2
+  rotate: false
+  xy: 219, 75
+  size: 193, 179
+  orig: 193, 179
+  offset: 0, 0
+  index: -1
+mo1
+  rotate: true
+  xy: 2, 2
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+mo2
+  rotate: true
+  xy: 148, 6
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+mo3
+  rotate: true
+  xy: 509, 116
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+ro
+  rotate: true
+  xy: 834, 210
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+tep
+  rotate: true
+  xy: 105, 2
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+txt_mini
+  rotate: false
+  xy: 414, 102
+  size: 93, 54
+  orig: 93, 54
+  offset: 0, 0
+  index: -1
+txt_ppookkeerr
+  rotate: false
+  xy: 583, 193
+  size: 177, 61
+  orig: 177, 61
+  offset: 0, 0
+  index: -1

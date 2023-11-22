@@ -1,0 +1,48 @@
+
+Bali_Vip.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 304, 169
+  size: 104, 34
+  orig: 104, 34
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 304, 134
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 304, 205
+  size: 146, 26
+  orig: 146, 26
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 2
+  size: 157, 27
+  orig: 157, 27
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 31
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 410, 173
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1

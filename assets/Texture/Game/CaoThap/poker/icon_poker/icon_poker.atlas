@@ -1,0 +1,34 @@
+
+icon_poker.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_poker
+  rotate: true
+  xy: 2, 28
+  size: 215, 205
+  orig: 215, 205
+  offset: 0, 0
+  index: -1
+img_poker
+  rotate: true
+  xy: 209, 68
+  size: 175, 149
+  orig: 175, 149
+  offset: 0, 0
+  index: -1
+img_poker2
+  rotate: true
+  xy: 360, 44
+  size: 199, 118
+  orig: 199, 118
+  offset: 0, 0
+  index: -1
+txt_poker
+  rotate: false
+  xy: 209, 2
+  size: 170, 40
+  orig: 170, 40
+  offset: 0, 0
+  index: -1

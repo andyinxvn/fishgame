@@ -1,0 +1,12 @@
+hoadao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tree
+  rotate: false
+  xy: 2, 2
+  size: 334, 232
+  orig: 334, 232
+  offset: 0, 0
+  index: -1

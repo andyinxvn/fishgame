@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 432,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dong-cuoc-bg
+  rotate: false
+  xy: 297, 12
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+dong-cuoc-light1
+  rotate: false
+  xy: 149, 1
+  size: 147, 145
+  orig: 147, 145
+  offset: 0, 0
+  index: -1
+dong-cuoc-light2
+  rotate: false
+  xy: 1, 1
+  size: 147, 145
+  orig: 147, 145
+  offset: 0, 0
+  index: -1

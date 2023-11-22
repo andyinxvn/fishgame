@@ -1,0 +1,68 @@
+daily.png
+  size: 512,512
+  format: RGBA8888
+  filter: Linear,Linear
+  repeat: none
+SAO2
+  rotate: false
+  xy: 258, 134
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 2, 2
+  size: 254, 253
+  orig: 254, 253
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: false
+  xy: 2, 2
+  size: 254, 253
+  orig: 254, 253
+  offset: 0, 0
+  index: -1
+fx3
+  rotate: false
+  xy: 2, 257
+  size: 256, 253
+  orig: 256, 253
+  offset: 0, 0
+  index: -1
+ic
+  rotate: false
+  xy: 260, 333
+  size: 202, 177
+  orig: 202, 177
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 258, 188
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 258, 188
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 322, 197
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+ĐẠI LÝ
+  rotate: false
+  xy: 260, 251
+  size: 238, 80
+  orig: 238, 80
+  offset: 0, 0
+  index: -1

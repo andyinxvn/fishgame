@@ -1,0 +1,62 @@
+
+Icon-TLMNF.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Icon TLMN/1
+  rotate: false
+  xy: 2, 55
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+Icon TLMN/2
+  rotate: true
+  xy: 361, 157
+  size: 88, 105
+  orig: 88, 105
+  offset: 0, 0
+  index: -1
+Icon TLMN/3
+  rotate: false
+  xy: 301, 13
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+Icon TLMN/4
+  rotate: false
+  xy: 380, 58
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+Icon TLMN/5
+  rotate: true
+  xy: 194, 22
+  size: 88, 105
+  orig: 88, 105
+  offset: 0, 0
+  index: -1
+Icon TLMN/6
+  rotate: false
+  xy: 2, 2
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+Icon TLMN/7
+  rotate: false
+  xy: 194, 112
+  size: 164, 39
+  orig: 164, 39
+  offset: 0, 0
+  index: -1
+Icon TLMN/8
+  rotate: false
+  xy: 194, 153
+  size: 165, 92
+  orig: 165, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "72a83e47-f28d-4d0c-8789-a25ea0d51c54",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "baner ten dem thuong hai": {
+      "ver": "1.0.4",
+      "uuid": "72a368f7-4aa1-4564-ae38-1b7b4cd60876",
+      "rawTextureUuid": "72a83e47-f28d-4d0c-8789-a25ea0d51c54",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 581,
+      "height": 146,
+      "rawWidth": 581,
+      "rawHeight": 146,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

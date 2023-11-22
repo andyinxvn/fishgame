@@ -1,0 +1,27 @@
+
+space background 1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Layer 1a
+  rotate: false
+  xy: 1284, 804
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 103
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1

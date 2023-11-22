@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 756,353
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beauty
+  rotate: true
+  xy: 1, 1
+  size: 351, 586
+  orig: 351, 586
+  offset: 0, 0
+  index: -1
+Beauty-dress
+  rotate: true
+  xy: 588, 91
+  size: 29, 158
+  orig: 29, 158
+  offset: 0, 0
+  index: -1
+Beauty-hand
+  rotate: false
+  xy: 588, 121
+  size: 167, 231
+  orig: 167, 231
+  offset: 0, 0
+  index: -1

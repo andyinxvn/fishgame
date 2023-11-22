@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"sign9","_duration":24.5,"curveData":{"props":{"position":[{"frame":0,"value":[-812,-175.002,0]},{"frame":24.5,"value":[812,-175.002,0]}],"scale":[{"frame":0,"value":{"__type__":"cc.Vec2","x":-1,"y":1}}]}}}

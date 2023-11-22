@@ -1,0 +1,146 @@
+
+cowboy maincharacter.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 319, 689
+  size: 183, 122
+  orig: 183, 122
+  offset: 0, 0
+  index: -1
+c body
+  rotate: false
+  xy: 140, 411
+  size: 163, 248
+  orig: 163, 248
+  offset: 0, 0
+  index: -1
+c body 3
+  rotate: false
+  xy: 140, 661
+  size: 177, 356
+  orig: 177, 356
+  offset: 0, 0
+  index: -1
+c boob
+  rotate: true
+  xy: 2, 51
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: -1
+c chan1
+  rotate: false
+  xy: 2, 387
+  size: 136, 630
+  orig: 136, 630
+  offset: 0, 0
+  index: -1
+c ebrow1
+  rotate: false
+  xy: 2, 36
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+c ebrow2
+  rotate: true
+  xy: 305, 637
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+c eye1
+  rotate: false
+  xy: 319, 669
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+c eye2
+  rotate: false
+  xy: 90, 173
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+c hair1
+  rotate: false
+  xy: 144, 315
+  size: 155, 94
+  orig: 155, 94
+  offset: 0, 0
+  index: -1
+c hair2
+  rotate: true
+  xy: 698, 830
+  size: 43, 110
+  orig: 43, 110
+  offset: 0, 0
+  index: -1
+c hair3
+  rotate: false
+  xy: 144, 209
+  size: 50, 104
+  orig: 50, 104
+  offset: 0, 0
+  index: -1
+c head
+  rotate: false
+  xy: 508, 824
+  size: 188, 193
+  orig: 188, 193
+  offset: 0, 0
+  index: -1
+c hong
+  rotate: false
+  xy: 319, 813
+  size: 187, 204
+  orig: 187, 204
+  offset: 0, 0
+  index: -1
+c mouth1
+  rotate: false
+  xy: 994, 998
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+c mouth1 copy
+  rotate: false
+  xy: 833, 892
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+c tayphai
+  rotate: false
+  xy: 90, 192
+  size: 52, 193
+  orig: 52, 193
+  offset: 0, 0
+  index: -1
+c tayphai 2
+  rotate: false
+  xy: 2, 146
+  size: 86, 239
+  orig: 86, 239
+  offset: 0, 0
+  index: -1
+c taytrai
+  rotate: true
+  xy: 833, 912
+  size: 105, 159
+  orig: 105, 159
+  offset: 0, 0
+  index: -1
+c taytrai1
+  rotate: false
+  xy: 698, 875
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1

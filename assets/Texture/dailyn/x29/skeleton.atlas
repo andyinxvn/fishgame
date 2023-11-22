@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1568,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+X6 CLUB copy 2
+  rotate: false
+  xy: 2, 2
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1046, 2
+  size: 328, 326
+  orig: 328, 326
+  offset: 0, 0
+  index: -1
+daily-dai
+  rotate: false
+  xy: 524, 2
+  size: 185, 115
+  orig: 185, 115
+  offset: 0, 0
+  index: -1
+daily-ly
+  rotate: false
+  xy: 2, 523
+  size: 116, 93
+  orig: 116, 93
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 524, 523
+  size: 520, 519
+  orig: 520, 519
+  offset: 0, 0
+  index: -1

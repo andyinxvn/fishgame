@@ -1,0 +1,104 @@
+
+2021.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 467, 448
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+2 1
+  rotate: false
+  xy: 386, 286
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+2 2
+  rotate: false
+  xy: 172, 166
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+Clock
+  rotate: false
+  xy: 2, 25
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Cow
+  rotate: false
+  xy: 2, 107
+  size: 94, 118
+  orig: 94, 118
+  offset: 0, 0
+  index: -1
+Dragon Body
+  rotate: false
+  xy: 98, 157
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+Dragon Head
+  rotate: false
+  xy: 386, 406
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+Glow Back
+  rotate: false
+  xy: 2, 227
+  size: 382, 277
+  orig: 382, 277
+  offset: 0, 0
+  index: -1
+Lamp 1
+  rotate: false
+  xy: 229, 193
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Lamp 2
+  rotate: false
+  xy: 98, 110
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+Lamp 3
+  rotate: false
+  xy: 386, 347
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+Tail 1
+  rotate: false
+  xy: 84, 86
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Tail 2
+  rotate: false
+  xy: 386, 263
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+Tail 3
+  rotate: true
+  xy: 2, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1

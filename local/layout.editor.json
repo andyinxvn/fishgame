@@ -8,7 +8,7 @@
       "x": 0,
       "y": 25,
       "width": 1920,
-      "height": 977,
+      "height": 970,
       "layout": {
         "children": [
           {
@@ -18,7 +18,7 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 445.984375,
+                "height": 292,
                 "type": "panel",
                 "width": 402
               },
@@ -27,12 +27,12 @@
                 "children": [
                   "assets"
                 ],
-                "height": 441,
+                "height": 588,
                 "type": "panel",
                 "width": 402
               }
             ],
-            "height": 890,
+            "height": 883,
             "type": "dock-v",
             "width": 402
           },
@@ -43,23 +43,23 @@
                 "children": [
                   "scene"
                 ],
-                "height": 498,
+                "height": 494.0625,
                 "type": "panel",
                 "width": 1078.984375
               },
               {
-                "active": 1,
+                "active": 0,
                 "children": [
                   "console",
                   "timeline",
                   "game-window"
                 ],
-                "height": 389,
+                "height": 385.9375,
                 "type": "panel",
                 "width": 1078.984375
               }
             ],
-            "height": 890,
+            "height": 883,
             "type": "dock-v",
             "width": 1078.984375
           },
@@ -69,7 +69,7 @@
               "inspector",
               "cocos-services"
             ],
-            "height": 890,
+            "height": 883,
             "type": "panel",
             "width": 433
           }
@@ -87,12 +87,13 @@
         "cocos-services"
       ]
     },
-    "worker": {}
+    "worker": {},
+    "window-1700726369926": {}
   },
   "panels": {
     "builder": {
-      "x": 0,
-      "y": 0,
+      "x": 269,
+      "y": 99,
       "width": 1382,
       "height": 744
     },

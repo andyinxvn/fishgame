@@ -1,94 +1,203 @@
-2023-11-22T09:30:51.616Z - normal: Load ~/.CocosCreator/settings.json
-2023-11-22T09:30:51.645Z - normal: Initializing Asset Database
-2023-11-22T09:30:51.657Z - normal: checking language setting...
-2023-11-22T09:30:51.657Z - normal: Language: en
-2023-11-22T09:30:51.930Z - success: preview server running at http://localhost:7456
-2023-11-22T09:30:51.942Z - success: protocol editor-framework registered
-2023-11-22T09:30:51.942Z - success: protocol app registered
-2023-11-22T09:30:51.942Z - success: protocol theme registered
-2023-11-22T09:30:51.942Z - success: protocol packages registered
-2023-11-22T09:30:51.942Z - success: protocol uuid registerred
-2023-11-22T09:30:51.942Z - success: protocol db registerred
-2023-11-22T09:30:51.942Z - success: protocol thumbnail registerred
-2023-11-22T09:30:51.942Z - success: protocol unpack registerred
-2023-11-22T09:30:51.942Z - success: protocol disable-commonjs registerred
-2023-11-22T09:30:53.158Z - normal: connected!
-2023-11-22T09:30:53.161Z - normal: Check project /Users/andy/Documents/cprojects/SlotGame/tk/game/x29-1
-2023-11-22T09:30:53.164Z - normal: Initializing project /Users/andy/Documents/cprojects/SlotGame/tk/game/x29-1
-2023-11-22T09:30:53.196Z - success: adapters loaded
-2023-11-22T09:30:53.204Z - success: asset-db-debugger loaded
-2023-11-22T09:30:53.254Z - success: fb-audience-network loaded
-2023-11-22T09:30:53.274Z - success: fb-live-stream loaded
-2023-11-22T09:30:53.276Z - success: google-play-instant loaded
-2023-11-22T09:30:53.279Z - success: huawei-runtime loaded
-2023-11-22T09:30:53.279Z - success: jkw-adapter loaded
-2023-11-22T09:30:53.280Z - success: jsb-adapter loaded
-2023-11-22T09:30:53.282Z - success: oppo-runtime loaded
-2023-11-22T09:30:53.285Z - success: package-manager loaded
-2023-11-22T09:30:53.285Z - success: qtt-adapter loaded
-2023-11-22T09:30:53.286Z - success: runtime-dev-tools loaded
-2023-11-22T09:30:53.290Z - success: sdkbox loaded
-2023-11-22T09:30:53.292Z - success: ui-kit-preview-extra loaded
-2023-11-22T09:30:53.294Z - success: ui-kit-preview loaded
-2023-11-22T09:30:53.296Z - success: vivo-runtime loaded
-2023-11-22T09:30:53.297Z - success: alipay-minigame loaded
-2023-11-22T09:30:53.346Z - success: assets loaded
-2023-11-22T09:30:53.348Z - success: baidugame-opendata loaded
-2023-11-22T09:30:53.349Z - success: baidugame loaded
-2023-11-22T09:30:53.352Z - success: builder loaded
-2023-11-22T09:30:53.452Z - success: cocos-services loaded
-2023-11-22T09:30:53.460Z - success: console loaded
-2023-11-22T09:30:53.473Z - success: fb-instant-games loaded
-2023-11-22T09:30:53.476Z - success: game-window loaded
-2023-11-22T09:30:53.476Z - success: google-instant-games loaded
-2023-11-22T09:30:53.479Z - success: hierarchy loaded
-2023-11-22T09:30:53.481Z - success: inspector loaded
-2023-11-22T09:30:53.661Z - success: cpk-publish loaded
-2023-11-22T09:30:53.661Z - success: keystore loaded
-2023-11-22T09:30:53.666Z - success: node-library loaded
-2023-11-22T09:30:53.666Z - success: open-recent-items loaded
-2023-11-22T09:30:53.667Z - success: package-asset loaded
-2023-11-22T09:30:53.667Z - success: preferences loaded
-2023-11-22T09:30:53.669Z - success: project-exporter loaded
-2023-11-22T09:30:53.672Z - success: project-importer loaded
-2023-11-22T09:30:53.674Z - success: project-settings loaded
-2023-11-22T09:30:53.681Z - success: qtt-runtime loaded
-2023-11-22T09:30:53.684Z - success: scene loaded
-2023-11-22T09:30:53.684Z - success: simulator-debugger loaded
-2023-11-22T09:30:53.685Z - success: sprite-editor loaded
-2023-11-22T09:30:53.687Z - success: store loaded
-2023-11-22T09:30:53.690Z - success: timeline loaded
-2023-11-22T09:30:53.691Z - success: wechatgame-opendata loaded
-2023-11-22T09:30:53.693Z - success: wechatgame loaded
-2023-11-22T09:30:53.694Z - success: xiaomi-runtime loaded
-2023-11-22T09:30:53.739Z - success: im-plugin loaded
-2023-11-22T09:30:53.742Z - success: hot-update loaded
-2023-11-22T09:30:54.517Z - normal: Initializing Cocos2d
-2023-11-22T09:30:54.776Z - normal: Initializing engine extends
-2023-11-22T09:30:58.436Z - info: Cocos Service load base data!
-2023-11-22T09:30:59.374Z - warn: [db-task][init] uuid collision, the uuid(7e6dca50-3a1a-46e4-af80-1522d67f4d6a) for /Users/andy/Documents/cprojects/SlotGame/tk/game/x29-1/assets/Texture/icon/bg.png is already used. A new uuid(07874e5d-f499-410a-b832-b90d278c353b) will be assigned.
-2023-11-22T09:30:59.375Z - warn: [db-task][init] uuid collision, the uuid(e9a05c11-db46-4025-b7bd-5fc57092b91a) for /Users/andy/Documents/cprojects/SlotGame/tk/game/x29-1/assets/Texture/icon/bg.png/bg is already used. A new uuid(e77c6484-d3b8-4ad4-8d31-eacbe328624f) will be assigned.
-2023-11-22T09:31:06.945Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["./bg","./bg-chip","./bg-hu","./bg-phai","./bg-phai-tranform","./bg-scroll-p","./button-auto","./button-stop","./chip-select","./help-button","./icon-0","./icon-1","./icon-2","./icon-3","./icon-4","./icon-5","./ls-button","./quay-button","./stop-button","./title","./top-button","./x-button","./x10","./x2","./x3","./x5"]
-2023-11-22T09:31:06.962Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["./thuong","./x20","./x21","./x22"]
-2023-11-22T09:31:08.611Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["res/Minigame/BauCua/xucxac/0.png","res/Minigame/BauCua/xucxac/1.png","res/Minigame/BauCua/xucxac/10.png","res/Minigame/BauCua/xucxac/11.png","res/Minigame/BauCua/xucxac/12.png","res/Minigame/BauCua/xucxac/13.png","res/Minigame/BauCua/xucxac/14.png","res/Minigame/BauCua/xucxac/15.png","res/Minigame/BauCua/xucxac/2.png","res/Minigame/BauCua/xucxac/3.png","res/Minigame/BauCua/xucxac/4.png","res/Minigame/BauCua/xucxac/5.png","res/Minigame/BauCua/xucxac/6.png","res/Minigame/BauCua/xucxac/7.png","res/Minigame/BauCua/xucxac/8.png","res/Minigame/BauCua/xucxac/9.png"]
-2023-11-22T09:31:08.623Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["./bau-ok","./bg-chip","./bg-soicau","./bg-time","./bg-title","./bgmain","./ca-ok","./chip-off","./chip-select","./cua-ok","./ga-ok","./help-button","./history-button","./mask","./nai-ok","./tom-ok","./top-button","./x-button","./x2","./x3","./x4","./x6","./x9"]
-2023-11-22T09:31:08.758Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["./1","./10","./11","./12","./13","./14","./15","./16","./17","./18","./19","./2","./20","./3","./4","./5","./6","./7","./8","./9","./exit-popup","./popup-button1","./popup-button2","./popup-button3","./popup-button4","./text-dongdatcuoc"]
-2023-11-22T09:31:08.763Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["./line_0000s_0000_20","./line_0000s_0001_19","./line_0000s_0002_18","./line_0000s_0003_17","./line_0000s_0004_16","./line_0000s_0005_15","./line_0000s_0006_14","./line_0000s_0007_13","./line_0000s_0008_12","./line_0000s_0009_11","./line_0000s_0010_10","./line_0000s_0011_9","./line_0000s_0012_8","./line_0000s_0013_7","./line_0000s_0014_6","./line_0000s_0015_5","./line_0000s_0016_4","./line_0000s_0017_3","./line_0000s_0018_2","./line_0000s_0019_1"]
-2023-11-22T09:31:08.768Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["./BG-KimCuong","./BG-chitiet","./BG-popup","./Rectangle 5","./button-dong","./button-quay","./button-sieutoc-act","./button-sieutoc-disible","./button-tuquay","./candy1","./candy2","./candy3","./candy5","./candy6","./exit-game","./gold-act","./gold-dis","./hide-icon","./icon-huongdan","./icon-i","./icon-vinhdanh","./lichsuhu-btn","./text-BangVinhDanh","./text-Lichsugiaodich","./text-chitiet","./text-dongdatcuoc","./text1-thele"]
-2023-11-22T09:31:08.782Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["ef_line/line_01.png","ef_line/line_02.png","ef_line/line_03.png","ef_line/line_04.png","ef_line/line_05.png","ef_line/line_06.png","ef_line/line_07.png","ef_line/line_08.png","ef_line/line_09.png","ef_line/line_10.png","ef_line/line_11.png","ef_line/line_12.png","ef_line/line_13.png","ef_line/line_14.png","ef_line/line_15.png","ef_line/line_16.png","ef_line/line_17.png","ef_line/line_18.png","ef_line/line_19.png","ef_line/line_20.png"]
-2023-11-22T09:31:09.629Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["res/Minigame/ResMiniPoker/CanGat/cangat0.png","res/Minigame/ResMiniPoker/CanGat/cangat1.png","res/Minigame/ResMiniPoker/CanGat/cangat2.png","res/Minigame/ResMiniPoker/CanGat/cangat3.png","res/Minigame/ResMiniPoker/CanGat/cangat4.png","res/Minigame/ResMiniPoker/CanGat/cangat5.png"]
-2023-11-22T09:31:15.008Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["light/0.png","light/1.png","phaohoa/0.png","phaohoa/1.png","phaohoa/2.png","phaohoa/3.png","phaohoa/4.png","phaohoa/5.png","phaohoa/6.png","phaohoa/7.png","phaohoa/8.png","phaohoa/9.png"]
-2023-11-22T09:31:15.083Z - failed: [db-task][init] Failed to import asset /Users/andy/Documents/cprojects/SlotGame/tk/game/x29-1/assets/Texture/Util/Other/aa.png, message: Error: Input file contains unsupported image format
-2023-11-22T09:31:15.455Z - failed: [db-task][init] Failed to import asset /Users/andy/Documents/cprojects/SlotGame/tk/game/x29-1/assets/Texture/Util/progress-bar/aa.png, message: Error: Input file contains unsupported image format
-2023-11-22T09:31:15.580Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["./diem","./hang","./ip-12","./moto","./sh-abs","./the-dis","./thele-select","./thuong","./tnv","./vinhdanh-dis","./vinhdanh-select"]
-2023-11-22T09:31:15.776Z - warn: [SpriteAtlas postImport] Some of the frame keys have been overwritten : ["","","","","","","","","","","","","","","","","","","","","","","","",""]
-2023-11-22T09:31:15.784Z - warn: [SpriteAtlas postImport] Some of the frame keys have been overwritten : ["","",""]
-2023-11-22T09:31:15.910Z - warn: [SpriteAtlas postImport] Some of the frame keys have been overwritten : ["","","","","","","","","","","","","","","","","","","","","",""]
-2023-11-22T09:31:15.937Z - warn: [SpriteAtlas postImport] Some of the frame keys have been overwritten : ["","","","","","","","","","","","","","","","","","","","","","","","",""]
-2023-11-22T09:31:15.947Z - warn: [SpriteAtlas postImport] Some of the frame keys have been overwritten : ["","","","","","","","","","","","","","","","","","",""]
-2023-11-22T09:31:15.952Z - warn: [SpriteAtlas postImport] Some of the frame keys have been overwritten : ["","","","","","","","","","","","","","","","","","","","","","","","","",""]
-2023-11-22T09:31:16.737Z - warn: [SpriteAtlas postImport] Some of the frame keys have been overwritten : ["","","","","","","","","",""]
-2023-11-22T09:31:21.528Z - normal: Loading packages
-2023-11-22T09:31:21.532Z - normal: Watching packages
-2023-11-22T09:31:21.584Z - normal: Run Application
-2023-11-22T09:48:25.587Z - info: shutdown preview server
+2023-11-23T01:03:42.971Z - normal: Load ~/.CocosCreator/settings.json
+2023-11-23T01:03:43.014Z - normal: Initializing Asset Database
+2023-11-23T01:03:43.027Z - normal: checking language setting...
+2023-11-23T01:03:43.027Z - normal: Language: en
+2023-11-23T01:03:43.616Z - success: preview server running at http://localhost:7456
+2023-11-23T01:03:43.626Z - success: protocol editor-framework registered
+2023-11-23T01:03:43.627Z - success: protocol app registered
+2023-11-23T01:03:43.627Z - success: protocol theme registered
+2023-11-23T01:03:43.627Z - success: protocol packages registered
+2023-11-23T01:03:43.627Z - success: protocol uuid registerred
+2023-11-23T01:03:43.627Z - success: protocol db registerred
+2023-11-23T01:03:43.627Z - success: protocol thumbnail registerred
+2023-11-23T01:03:43.627Z - success: protocol unpack registerred
+2023-11-23T01:03:43.627Z - success: protocol disable-commonjs registerred
+2023-11-23T01:03:44.684Z - normal: connected!
+2023-11-23T01:03:44.690Z - normal: Check project /Users/andy/Documents/cprojects/SlotGame/tk/game/fishgame
+2023-11-23T01:03:44.695Z - normal: Initializing project /Users/andy/Documents/cprojects/SlotGame/tk/game/fishgame
+2023-11-23T01:03:44.746Z - success: adapters loaded
+2023-11-23T01:03:44.754Z - success: asset-db-debugger loaded
+2023-11-23T01:03:44.806Z - success: fb-audience-network loaded
+2023-11-23T01:03:44.822Z - success: fb-live-stream loaded
+2023-11-23T01:03:44.824Z - success: google-play-instant loaded
+2023-11-23T01:03:44.827Z - success: huawei-runtime loaded
+2023-11-23T01:03:44.827Z - success: jkw-adapter loaded
+2023-11-23T01:03:44.827Z - success: jsb-adapter loaded
+2023-11-23T01:03:44.829Z - success: oppo-runtime loaded
+2023-11-23T01:03:44.833Z - success: package-manager loaded
+2023-11-23T01:03:44.833Z - success: qtt-adapter loaded
+2023-11-23T01:03:44.834Z - success: runtime-dev-tools loaded
+2023-11-23T01:03:44.838Z - success: sdkbox loaded
+2023-11-23T01:03:44.840Z - success: ui-kit-preview-extra loaded
+2023-11-23T01:03:44.842Z - success: ui-kit-preview loaded
+2023-11-23T01:03:44.845Z - success: vivo-runtime loaded
+2023-11-23T01:03:44.846Z - success: alipay-minigame loaded
+2023-11-23T01:03:44.895Z - success: assets loaded
+2023-11-23T01:03:44.896Z - success: baidugame-opendata loaded
+2023-11-23T01:03:44.897Z - success: baidugame loaded
+2023-11-23T01:03:44.900Z - success: builder loaded
+2023-11-23T01:03:45.004Z - success: cocos-services loaded
+2023-11-23T01:03:45.012Z - success: console loaded
+2023-11-23T01:03:45.025Z - success: fb-instant-games loaded
+2023-11-23T01:03:45.028Z - success: game-window loaded
+2023-11-23T01:03:45.029Z - success: google-instant-games loaded
+2023-11-23T01:03:45.031Z - success: hierarchy loaded
+2023-11-23T01:03:45.034Z - success: inspector loaded
+2023-11-23T01:03:45.211Z - success: cpk-publish loaded
+2023-11-23T01:03:45.211Z - success: keystore loaded
+2023-11-23T01:03:45.215Z - success: node-library loaded
+2023-11-23T01:03:45.216Z - success: open-recent-items loaded
+2023-11-23T01:03:45.216Z - success: package-asset loaded
+2023-11-23T01:03:45.217Z - success: preferences loaded
+2023-11-23T01:03:45.219Z - success: project-exporter loaded
+2023-11-23T01:03:45.221Z - success: project-importer loaded
+2023-11-23T01:03:45.223Z - success: project-settings loaded
+2023-11-23T01:03:45.231Z - success: qtt-runtime loaded
+2023-11-23T01:03:45.233Z - success: scene loaded
+2023-11-23T01:03:45.234Z - success: simulator-debugger loaded
+2023-11-23T01:03:45.234Z - success: sprite-editor loaded
+2023-11-23T01:03:45.236Z - success: store loaded
+2023-11-23T01:03:45.239Z - success: timeline loaded
+2023-11-23T01:03:45.240Z - success: wechatgame-opendata loaded
+2023-11-23T01:03:45.242Z - success: wechatgame loaded
+2023-11-23T01:03:45.250Z - success: xiaomi-runtime loaded
+2023-11-23T01:03:45.294Z - success: im-plugin loaded
+2023-11-23T01:03:45.297Z - success: hot-update loaded
+2023-11-23T01:03:46.131Z - normal: Initializing Cocos2d
+2023-11-23T01:03:46.386Z - normal: Initializing engine extends
+2023-11-23T01:03:47.572Z - info: Cocos Service load base data!
+2023-11-23T01:04:08.299Z - normal: Loading packages
+2023-11-23T01:04:08.303Z - normal: Watching packages
+2023-11-23T01:04:08.347Z - normal: Run Application
+2023-11-23T02:16:39.314Z - warn: Cannot place directory into itself - f4a2c281-08d8-4605-a7f8-a96abda230af
+2023-11-23T04:10:41.695Z - warn: [db-task][refresh] uuid collision, the uuid(5f92b887-3978-4d70-821b-14c1e21daf7c) for /Users/andy/Documents/cprojects/SlotGame/tk/game/fishgame/assets/Prefab/Game/BanCa/fish/x002 - 001/2_2_g6.prefab is already used. A new uuid(531fb57f-bd74-4e74-9c16-f1447af102a3) will be assigned.
+2023-11-23T04:10:41.696Z - warn: [db-task][refresh] uuid collision, the uuid(a7ec469e-794b-4db4-af9d-af4669465eee) for /Users/andy/Documents/cprojects/SlotGame/tk/game/fishgame/assets/Prefab/Game/BanCa/fish/x002 - 001/x2_1.prefab is already used. A new uuid(efe17266-03c8-4903-82e9-f8ba538ac8aa) will be assigned.
+2023-11-23T04:10:41.696Z - warn: [db-task][refresh] uuid collision, the uuid(63f7b70d-10c9-4a9e-821a-3fdd595f3737) for /Users/andy/Documents/cprojects/SlotGame/tk/game/fishgame/assets/Prefab/Game/BanCa/fish/x002 - 001/x2_2.prefab is already used. A new uuid(08bab26e-dff3-45b1-9617-5b1ebf874981) will be assigned.
+2023-11-23T07:59:43.246Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android": {
+    "packageName": "x29.club"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "http://192.168.1.52:7456/preview-android-instant/",
+    "host": "",
+    "packageName": "org.cocos2d.pro68",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-30",
+  "appABIs": [
+    "armeabi-v7a",
+    "arm64-v8a",
+    "x86"
+  ],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/andy/Documents/cprojects/SlotGame/tk/game/fishgame/build",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "/Users/andy/Documents/cprojects/SlotGame/tk/game/fishgame/build/web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": "org.cocos2d.pro68"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.pro68"
+  },
+  "md5Cache": false,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.pro68",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "2dbb7549-feda-42b6-a6a9-86608310bcaf",
+    "be3decf7-a228-4eeb-a758-3bda0103212b",
+    "7b90d1b4-b548-498f-862e-bdefc7b9644c",
+    "347558f5-bd46-43ea-8604-192415c9cf2c",
+    "331d4109-cd15-4ff0-86f4-921ed5c786f5",
+    "1b8a2ef0-08aa-4997-b085-c3dbef3f54e5",
+    "93f25969-e926-41e7-b791-d5b79a572bb0",
+    "9185f1ae-0af5-417e-b02e-aa7216dd6690",
+    "196c72d6-6502-4fd8-b152-4bebc11f9756",
+    "89430d67-b82a-4ef6-8428-7efa5ed2a8d7",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "2449c048-de1c-43f9-944d-48dfd78fe7b9"
+  ],
+  "sourceMaps": false,
+  "startScene": "2dbb7549-feda-42b6-a6a9-86608310bcaf",
+  "template": "link",
+  "title": "X29",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "win32": {},
+  "xxteaKey": "76eb5338-ae61-4e",
+  "zipCompressJs": true,
+  "project": "/Users/andy/Documents/cprojects/SlotGame/tk/game/fishgame",
+  "projectName": "X29",
+  "debugBuildWorker": false
+}
+2023-11-23T07:59:43.250Z - normal: Building /Users/andy/Documents/cprojects/SlotGame/tk/game/fishgame
+2023-11-23T07:59:43.250Z - normal: Destination /Users/andy/Documents/cprojects/SlotGame/tk/game/fishgame/build/web-mobile
+2023-11-23T07:59:43.322Z - normal: Delete /Users/andy/Documents/cprojects/SlotGame/tk/game/fishgame/build/web-mobile/subpackages/**/*,/Users/andy/Documents/cprojects/SlotGame/tk/game/fishgame/build/web-mobile/**/*
+2023-11-23T08:00:22.064Z - normal: Start building assets
+2023-11-23T08:00:22.065Z - normal: Start spawn build-worker
+2023-11-23T08:00:22.488Z - normal: Finish spawn build-worker
+2023-11-23T08:00:22.488Z - normal: Start init build-worker
+2023-11-23T08:00:24.365Z - normal: Finish init build-worker
+2023-11-23T08:00:24.365Z - normal: Start build-assets in worker
+2023-11-23T08:00:26.217Z - warn: The referenced asset used in "db://assets/Scene/Splash.fire" is not found, it may have been deleted. Detailed information:
+Node path: "Canvas/background/Logo"
+Used in Component: "cc.Sprite"
+uuid: "7c05c453-61a4-46c3-b702-39dbcf1cb259"
+2023-11-23T08:00:32.550Z - warn: db://assets/Texture/icon/duoi.png has not been packed into AutoAtlas.
+2023-11-23T08:00:32.552Z - warn: db://assets/Texture/icon/lol.png has not been packed into AutoAtlas.
+2023-11-23T08:00:32.552Z - warn: db://assets/Texture/icon/background.png has not been packed into AutoAtlas.
+2023-11-23T08:00:33.891Z - normal: Finish build-assets in worker
+2023-11-23T08:00:33.897Z - normal: Finish building assets
+2023-11-23T08:00:34.109Z - normal: Start building plugin scripts
+2023-11-23T08:00:34.664Z - normal: Finish building plugin scripts
+2023-11-23T08:00:34.670Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2023-11-23T08:00:34.675Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2023-11-23T08:00:34.709Z - normal: Built to "/Users/andy/Documents/cprojects/SlotGame/tk/game/fishgame/build/web-mobile" successfully
+2023-11-23T08:00:34.729Z - normal: SearchPath updated in built main.js for hot update

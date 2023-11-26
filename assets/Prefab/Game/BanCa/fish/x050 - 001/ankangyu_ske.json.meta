@@ -1,0 +1,6 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b2fa52dc-d6a8-4b1d-8656-db11599e57dd",
+  "dragonBonesJson": "{\"frameRate\":24,\"name\":\"ankangyu\",\"version\":\"5.5\",\"compatibleVersion\":\"5.5\",\"armature\":[{\"type\":\"Sheet\",\"frameRate\":24,\"name\":\"Sprite\",\"aabb\":{\"x\":-123,\"y\":-77,\"width\":200,\"height\":142},\"bone\":[{\"name\":\"root\"}],\"slot\":[{\"displayIndex\":1,\"name\":\"sheetSlot\",\"parent\":\"root\"}],\"skin\":[{\"slot\":[{\"name\":\"sheetSlot\",\"display\":[{\"name\":\"ankangyu_00000\",\"transform\":{\"x\":-9,\"y\":-3}},{\"name\":\"ankangyu_00001\",\"transform\":{\"x\":-23,\"y\":-6}},{\"name\":\"ankangyu_00002\",\"transform\":{\"x\":-23,\"y\":-7}},{\"name\":\"ankangyu_00003\",\"transform\":{\"x\":-14,\"y\":-8}},{\"name\":\"ankangyu_00004\",\"transform\":{\"x\":-7,\"y\":-6}},{\"name\":\"ankangyu_00005\",\"transform\":{\"x\":-11,\"y\":-4}}]}]}],\"animation\":[{\"duration\":6,\"playTimes\":0,\"name\":\"Sprite\",\"slot\":[{\"name\":\"sheetSlot\",\"displayFrame\":[{},{\"value\":1},{\"value\":2},{\"value\":3},{\"value\":4},{\"value\":5}]}]}],\"defaultActions\":[{\"gotoAndPlay\":\"Sprite\"}]}]}",
+  "subMetas": {}
+}

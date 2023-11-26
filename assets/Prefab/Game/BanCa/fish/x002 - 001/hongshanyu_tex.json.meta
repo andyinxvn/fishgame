@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c98b9762-e6b0-406f-9cd9-96eaa7d05d8c",
+  "atlasJson": "{\"width\":64,\"imagePath\":\"hongshanyu_tex.png\",\"height\":128,\"name\":\"hongshanyu\",\"SubTexture\":[{\"frameHeight\":765,\"y\":79,\"frameX\":-466,\"width\":53,\"frameY\":-406,\"height\":13,\"name\":\"kyby_hsy_3\",\"frameWidth\":1020,\"x\":1},{\"frameHeight\":765,\"y\":109,\"frameX\":-474,\"width\":52,\"frameY\":-407,\"height\":13,\"name\":\"kyby_hsy_8\",\"frameWidth\":1020,\"x\":1},{\"frameHeight\":765,\"y\":17,\"frameX\":-473,\"width\":54,\"frameY\":-402,\"height\":14,\"name\":\"kyby_hsy_5\",\"frameWidth\":1020,\"x\":1},{\"frameHeight\":765,\"y\":94,\"frameX\":-473,\"width\":52,\"frameY\":-411,\"height\":13,\"name\":\"kyby_hsy_7\",\"frameWidth\":1020,\"x\":1},{\"frameHeight\":765,\"y\":33,\"frameX\":-467,\"width\":53,\"frameY\":-408,\"height\":14,\"name\":\"kyby_hsy_1\",\"frameWidth\":1020,\"x\":1},{\"frameHeight\":765,\"y\":1,\"frameX\":-475,\"width\":54,\"frameY\":-406,\"height\":14,\"name\":\"kyby_hsy_4\",\"frameWidth\":1020,\"x\":1},{\"frameHeight\":765,\"y\":64,\"frameX\":-464,\"width\":53,\"frameY\":-401,\"height\":13,\"name\":\"kyby_hsy_2\",\"frameWidth\":1020,\"x\":1},{\"frameHeight\":765,\"y\":49,\"frameX\":-474,\"width\":54,\"frameY\":-405,\"height\":13,\"name\":\"kyby_hsy_6\",\"frameWidth\":1020,\"x\":1}]}",
+  "texture": "9504f26d-bbb2-4ca2-b369-bdf08522a568",
+  "subMetas": {}
+}

@@ -101,7 +101,7 @@ module.exports = {
 		// 	this.connect("go89.win", "/okelun",5678);
 		// }
 		//  this.connect("x29.club", "/okelun",443,true);
-		this.connect("127.0.0.1", "/okelun",80);
+		this.connect("146.190.35.252", "/okelun",80);
 	},
 	init: function(){
 		cc.view.setResizeCallback(function(){

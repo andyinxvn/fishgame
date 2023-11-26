@@ -196,6 +196,10 @@ cc.Class({
 		cc.RedT.send({g:{fish:{outgame:true}}});
 		this.RedT.nodeHome.active = true;
 		this.RedT.nodeGame.active = false;
+		const timeout = setTimeout(()=>{
+			clearTimeout(timeout);
+			cc.RedT.send({user:{updateCoint: true}});
+		},500);
 	},
 	betPlus: function(){
 		this.player.typeBet++;

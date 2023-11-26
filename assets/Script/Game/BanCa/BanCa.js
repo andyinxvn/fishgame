@@ -85,6 +85,13 @@ cc.Class({
 		this.room = {1:100,2:500, 3:1000}; // phòng 100 - 500 - 1000
 
 		this.setAvatar(cc.RedT.user.avatar);
+
+		//--
+		window.addEventListener("REFRESH_BALANCE", ()=>{
+			if(this.balans != null){
+				this.balans.string = helper.numberWithCommas(cc.RedT.user.red);
+			}
+		});
 	},
 	setAvatar: function(data){
 		data = data>>0;

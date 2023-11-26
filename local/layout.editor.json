@@ -7,7 +7,7 @@
       "windowType": "dockable",
       "x": 0,
       "y": 24,
-      "width": 1555,
+      "width": 1554,
       "height": 882,
       "layout": {
         "children": [
@@ -18,7 +18,7 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 276,
+                "height": 528,
                 "type": "panel",
                 "width": 414
               },
@@ -27,7 +27,7 @@
                 "children": [
                   "assets"
                 ],
-                "height": 486,
+                "height": 234,
                 "type": "panel",
                 "width": 414
               }
@@ -103,14 +103,13 @@
         "inspector",
         "cocos-services"
       ]
-    },
-    "window-1700984366667": {}
+    }
   },
   "panels": {
     "builder": {
-      "x": 2,
+      "x": 0,
       "y": 40,
-      "width": 1384,
+      "width": 1387,
       "height": 748
     },
     "preferences": {

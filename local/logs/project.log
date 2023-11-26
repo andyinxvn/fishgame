@@ -1,226 +1,81 @@
-2023-11-25T22:13:56.703Z - normal: Load ~/.CocosCreator/settings.json
-2023-11-25T22:13:56.750Z - normal: Initializing Asset Database
-2023-11-25T22:13:56.769Z - normal: checking language setting...
-2023-11-25T22:13:56.769Z - normal: Language: en
-2023-11-25T22:13:57.460Z - success: preview server running at http://localhost:7456
-2023-11-25T22:13:57.463Z - success: protocol editor-framework registered
-2023-11-25T22:13:57.463Z - success: protocol app registered
-2023-11-25T22:13:57.463Z - success: protocol theme registered
-2023-11-25T22:13:57.463Z - success: protocol packages registered
-2023-11-25T22:13:57.463Z - success: protocol uuid registerred
-2023-11-25T22:13:57.463Z - success: protocol db registerred
-2023-11-25T22:13:57.463Z - success: protocol thumbnail registerred
-2023-11-25T22:13:57.463Z - success: protocol unpack registerred
-2023-11-25T22:13:57.463Z - success: protocol disable-commonjs registerred
-2023-11-25T22:13:59.569Z - normal: connected!
-2023-11-25T22:13:59.569Z - normal: Check project C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
-2023-11-25T22:13:59.571Z - normal: Initializing project C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
-2023-11-25T22:13:59.648Z - success: adapters loaded
-2023-11-25T22:13:59.666Z - success: asset-db-debugger loaded
-2023-11-25T22:13:59.755Z - success: fb-audience-network loaded
-2023-11-25T22:13:59.804Z - success: fb-live-stream loaded
-2023-11-25T22:13:59.824Z - success: google-play-instant loaded
-2023-11-25T22:13:59.862Z - success: huawei-runtime loaded
-2023-11-25T22:13:59.866Z - success: jkw-adapter loaded
-2023-11-25T22:13:59.871Z - success: jsb-adapter loaded
-2023-11-25T22:13:59.902Z - success: oppo-runtime loaded
-2023-11-25T22:13:59.915Z - success: package-manager loaded
-2023-11-25T22:13:59.919Z - success: qtt-adapter loaded
-2023-11-25T22:13:59.940Z - success: runtime-dev-tools loaded
-2023-11-25T22:13:59.957Z - success: sdkbox loaded
-2023-11-25T22:13:59.971Z - success: ui-kit-preview-extra loaded
-2023-11-25T22:13:59.984Z - success: ui-kit-preview loaded
-2023-11-25T22:14:00.032Z - success: vivo-runtime loaded
-2023-11-25T22:14:00.034Z - success: alipay-minigame loaded
-2023-11-25T22:14:00.064Z - success: assets loaded
-2023-11-25T22:14:00.067Z - success: baidugame-opendata loaded
-2023-11-25T22:14:00.068Z - success: baidugame loaded
-2023-11-25T22:14:00.081Z - success: builder loaded
-2023-11-25T22:14:00.214Z - success: cocos-services loaded
-2023-11-25T22:14:00.216Z - success: console loaded
-2023-11-25T22:14:00.224Z - success: fb-instant-games loaded
-2023-11-25T22:14:00.225Z - success: game-window loaded
-2023-11-25T22:14:00.227Z - success: google-instant-games loaded
-2023-11-25T22:14:00.229Z - success: hierarchy loaded
-2023-11-25T22:14:00.230Z - success: inspector loaded
-2023-11-25T22:14:00.988Z - success: cpk-publish loaded
-2023-11-25T22:14:00.996Z - success: keystore loaded
-2023-11-25T22:14:01.010Z - success: node-library loaded
-2023-11-25T22:14:01.011Z - success: open-recent-items loaded
-2023-11-25T22:14:01.013Z - success: package-asset loaded
-2023-11-25T22:14:01.015Z - success: preferences loaded
-2023-11-25T22:14:01.016Z - success: project-exporter loaded
-2023-11-25T22:14:01.018Z - success: project-importer loaded
-2023-11-25T22:14:01.019Z - success: project-settings loaded
-2023-11-25T22:14:01.032Z - success: qtt-runtime loaded
-2023-11-25T22:14:01.035Z - success: scene loaded
-2023-11-25T22:14:01.035Z - success: simulator-debugger loaded
-2023-11-25T22:14:01.036Z - success: sprite-editor loaded
-2023-11-25T22:14:01.037Z - success: store loaded
-2023-11-25T22:14:01.041Z - success: timeline loaded
-2023-11-25T22:14:01.044Z - success: wechatgame-opendata loaded
-2023-11-25T22:14:01.048Z - success: wechatgame loaded
-2023-11-25T22:14:01.051Z - success: xiaomi-runtime loaded
-2023-11-25T22:14:01.222Z - success: im-plugin loaded
-2023-11-25T22:14:01.240Z - success: hot-update loaded
-2023-11-25T22:14:01.833Z - normal: Initializing Cocos2d
-2023-11-25T22:14:04.558Z - normal: Initializing engine extends
-2023-11-25T22:14:27.258Z - info: Cocos Service load base data!
-2023-11-25T22:14:32.068Z - normal: Loading packages
-2023-11-25T22:14:32.073Z - normal: Watching packages
-2023-11-25T22:14:32.417Z - normal: Run Application
-2023-11-25T22:17:55.795Z - warn: [db-task][refresh] uuid collision, the uuid(2c9d9ee7-2e68-4a31-be18-9876976fcbc3) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x010 - 001\x10_1.prefab is already used. A new uuid(cc164226-5928-44bd-a807-1e114e7df5c6) will be assigned.
-2023-11-25T22:17:55.796Z - warn: [db-task][refresh] uuid collision, the uuid(4a6ef18f-7da0-4c75-9eaa-0062ebfa9940) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x010 - 001\x10_2.prefab is already used. A new uuid(3200c6fc-5559-472d-a7c6-24992237eb4d) will be assigned.
-2023-11-25T22:30:49.689Z - info: Only the prefab node "x10_1" and its child nodes are saved.
-2023-11-25T22:30:56.151Z - info: Only the prefab node "x10_1" and its child nodes are saved.
-2023-11-25T22:31:04.970Z - warn: [db-task][refresh] uuid collision, the uuid(4b88e629-c91e-4924-b5cc-30b6c8a3f14f) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x012 - 001\x12.prefab is already used. A new uuid(6c2e36ef-27cf-418a-a6f2-27c2fcdff976) will be assigned.
-2023-11-25T22:37:39.729Z - warn: [db-task][refresh] uuid collision, the uuid(df8b65cb-cf80-4867-8d1f-ffad2030cba2) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x040 - 001\x40.prefab is already used. A new uuid(4e896e26-397a-4236-b09b-386cd8fbfe02) will be assigned.
-2023-11-26T00:44:18.777Z - info: Only the prefab node "x40" and its child nodes are saved.
-2023-11-26T00:45:15.355Z - warn: [db-task][refresh] uuid collision, the uuid(02e5096e-062c-49f7-b1ea-953c3c9b1408) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x060 - 001\x60.prefab is already used. A new uuid(fae3c483-4e5d-4706-92e5-c53fe224fd8f) will be assigned.
-2023-11-26T01:05:48.260Z - info: Only the prefab node "x60" and its child nodes are saved.
-2023-11-26T01:07:09.767Z - warn: [db-task][refresh] uuid collision, the uuid(4fbaa99b-4df1-44f8-a62e-41114ad8d276) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x003 - 001\x3.prefab is already used. A new uuid(01411ff9-af9e-4379-9de5-31e1a69bb81a) will be assigned.
-2023-11-26T01:18:06.834Z - info: Only the prefab node "x3" and its child nodes are saved.
-2023-11-26T01:26:24.839Z - info: Only the prefab node "x8" and its child nodes are saved.
-2023-11-26T01:26:57.484Z - warn: [db-task][refresh] uuid collision, the uuid(4b88e629-c91e-4924-b5cc-30b6c8a3f14f) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x012 - 001\x12.prefab is already used. A new uuid(cc928c74-78e8-4eff-b310-0d7327e80b33) will be assigned.
-2023-11-26T01:36:22.775Z - info: Only the prefab node "x12" and its child nodes are saved.
-2023-11-26T01:38:16.530Z - warn: [db-task][refresh] uuid collision, the uuid(49433730-597c-4261-9377-4b3a07d1eb1a) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x030 - 001\x30.prefab is already used. A new uuid(845b078b-1443-45ce-afa1-c97030046fbf) will be assigned.
-2023-11-26T01:47:03.215Z - info: Only the prefab node "x30" and its child nodes are saved.
-2023-11-26T01:47:13.867Z - info: Only the prefab node "x30" and its child nodes are saved.
-2023-11-26T01:47:16.825Z - info: Only the prefab node "x40" and its child nodes are saved.
-2023-11-26T01:48:47.980Z - warn: [db-task][refresh] uuid collision, the uuid(733616ca-b206-41af-b477-159f0939ef30) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x200 - 001\x200.prefab is already used. A new uuid(d010dd2e-840f-433a-b40d-be0ccb577ae5) will be assigned.
-2023-11-26T01:55:54.057Z - warn: [db-task][refresh] uuid collision, the uuid(fa6c4740-463b-494c-8c68-feca1fe96e61) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x150 - 001\x150.prefab is already used. A new uuid(b7054233-2f2e-4573-81fd-41e7e21000df) will be assigned.
-2023-11-26T02:14:38.808Z - info: Only the prefab node "x150" and its child nodes are saved.
-2023-11-26T02:14:39.161Z - info: Only the prefab node "x150" and its child nodes are saved.
-2023-11-26T02:18:17.288Z - info: Only the prefab node "x150" and its child nodes are saved.
-2023-11-26T02:19:19.062Z - warn: [db-task][refresh] uuid collision, the uuid(ad312fa5-4c3f-4c49-b2af-8d4ba33dc13d) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x120 - 001\x120.prefab is already used. A new uuid(50cf9126-bcae-4bca-8c39-aa5f7cdac2c9) will be assigned.
-2023-11-26T02:22:26.856Z - warn: [db-task][refresh] uuid collision, the uuid(0d5a806f-c446-4058-9d02-9ab13f960493) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x015 - 001\x15_1.prefab is already used. A new uuid(b26730e8-e8ef-4340-a3e9-d8695497f5f6) will be assigned.
-2023-11-26T02:22:26.857Z - warn: [db-task][refresh] uuid collision, the uuid(310add35-efbd-4e15-8fa5-dccee5122e78) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x015 - 001\x15_2.prefab is already used. A new uuid(43301523-f650-4584-b595-a140928c3c98) will be assigned.
-2023-11-26T02:22:26.858Z - warn: [db-task][refresh] uuid collision, the uuid(8aa9f92c-9209-4f01-8037-2fdc5a65ecf9) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x015 - 001\x15_3.prefab is already used. A new uuid(a6dd52b7-4104-410e-9a8d-d8bbfc8775f6) will be assigned.
-2023-11-26T02:33:09.155Z - info: Only the prefab node "x15_1" and its child nodes are saved.
-2023-11-26T02:42:45.024Z - info: Only the prefab node "x15_2" and its child nodes are saved.
-2023-11-26T02:44:55.668Z - warn: [db-task][refresh] uuid collision, the uuid(454a8c99-59af-4611-8e29-a59f3bcd4545) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x050 - 001\x50_1.prefab is already used. A new uuid(4c5af3dc-d338-4e33-9af1-69f59f7bbe4f) will be assigned.
-2023-11-26T02:44:55.669Z - warn: [db-task][refresh] uuid collision, the uuid(6b524ef8-d7d1-4f8c-91df-a669f2bd25d1) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x050 - 001\x50_2.prefab is already used. A new uuid(cdf5789b-40ae-42cc-b15d-ca52b8c35638) will be assigned.
-2023-11-26T03:08:22.011Z - info: Only the prefab node "x50_1" and its child nodes are saved.
-2023-11-26T03:17:54.290Z - info: Only the prefab node "x50_1" and its child nodes are saved.
-2023-11-26T03:34:49.292Z - info: Only the prefab node "x3" and its child nodes are saved.
-2023-11-26T03:34:58.376Z - info: Only the prefab node "x3" and its child nodes are saved.
-2023-11-26T03:35:17.512Z - info: Only the prefab node "x4_2" and its child nodes are saved.
-2023-11-26T03:35:24.950Z - info: Only the prefab node "x4_3" and its child nodes are saved.
-2023-11-26T03:35:34.835Z - info: Only the prefab node "x5_1" and its child nodes are saved.
-2023-11-26T03:35:48.986Z - info: Only the prefab node "x8" and its child nodes are saved.
-2023-11-26T03:35:54.366Z - info: Only the prefab node "x10_1" and its child nodes are saved.
-2023-11-26T03:36:05.138Z - info: Only the prefab node "x12" and its child nodes are saved.
-2023-11-26T03:36:14.864Z - info: Only the prefab node "x15_1" and its child nodes are saved.
-2023-11-26T03:36:23.911Z - info: Only the prefab node "x15_2" and its child nodes are saved.
-2023-11-26T03:36:50.218Z - info: Only the prefab node "x50_1" and its child nodes are saved.
-2023-11-26T03:36:59.659Z - info: Only the prefab node "x60" and its child nodes are saved.
-2023-11-26T03:37:10.052Z - info: Only the prefab node "x150" and its child nodes are saved.
-2023-11-26T03:52:05.952Z - error: Can not find texture "shenhaifufengwang_ske_tex.png" for atlas "C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x030 - 001\shenhaifufengwang_tex.json"
-    at C:\CocosCreator_2.2.2\resources\engine\extensions\dragonbones\editor\dragonbones-atlas-meta.js:82:24
-    at C:\CocosCreator_2.2.2\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:115:16
-    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:54:3)
-2023-11-26T03:53:06.829Z - info: Only the prefab node "x30" and its child nodes are saved.
-2023-11-26T03:53:34.770Z - info: Only the prefab node "x30" and its child nodes are saved.
-2023-11-26T03:54:46.347Z - info: Only the prefab node "x150" and its child nodes are saved.
-2023-11-26T03:57:56.685Z - info: Only the prefab node "x150" and its child nodes are saved.
-2023-11-26T04:10:18.650Z - info: Only the prefab node "x3" and its child nodes are saved.
-2023-11-26T05:48:41.407Z - info: Only the prefab node "x10_1" and its child nodes are saved.
-2023-11-26T05:48:54.622Z - info: Only the prefab node "x10_1" and its child nodes are saved.
-2023-11-26T05:58:25.234Z - info: Only the prefab node "x50_1" and its child nodes are saved.
-2023-11-26T05:58:49.208Z - info: Only the prefab node "x50_1" and its child nodes are saved.
-2023-11-26T06:04:08.573Z - info: Only the prefab node "x8" and its child nodes are saved.
-2023-11-26T06:04:18.762Z - info: Only the prefab node "x8" and its child nodes are saved.
-2023-11-26T06:09:43.774Z - error: Failed to load meta d4e4bd92-d67d-4871-bfbb-39e2599ac4bd: Failed to query meta info by d4e4bd92-d67d-4871-bfbb-39e2599ac4bd
-    at eval (C:\CocosCreator_2.2.2\resources\app.asar\editor\builtin\inspector\panel\index.js:1:6367)
-    at eval (C:\CocosCreator_2.2.2\resources\app.asar\editor\builtin\inspector\panel\index.js:1:9017)
-    at EventEmitter.<anonymous> (C:\CocosCreator_2.2.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3788)
-    at EventEmitter.emit (events.js:194:13)
-2023-11-26T06:09:53.719Z - info: Only the prefab node "x60" and its child nodes are saved.
-2023-11-26T06:10:04.906Z - info: Only the prefab node "x60" and its child nodes are saved.
-2023-11-26T06:10:06.681Z - info: Only the prefab node "x60" and its child nodes are saved.
-2023-11-26T06:10:08.667Z - info: Only the prefab node "x60" and its child nodes are saved.
-2023-11-26T06:22:32.956Z - info: Only the prefab node "x3" and its child nodes are saved.
-2023-11-26T06:22:47.947Z - info: Only the prefab node "x3" and its child nodes are saved.
-2023-11-26T06:22:48.157Z - info: Only the prefab node "x3" and its child nodes are saved.
-2023-11-26T06:22:48.370Z - info: Only the prefab node "x3" and its child nodes are saved.
-2023-11-26T06:22:50.558Z - info: Only the prefab node "x3" and its child nodes are saved.
-2023-11-26T06:25:57.013Z - info: Only the prefab node "x40" and its child nodes are saved.
-2023-11-26T06:26:12.421Z - info: Only the prefab node "x40" and its child nodes are saved.
-2023-11-26T06:26:12.647Z - info: Only the prefab node "x40" and its child nodes are saved.
-2023-11-26T06:26:12.862Z - info: Only the prefab node "x40" and its child nodes are saved.
-2023-11-26T06:26:14.179Z - info: Only the prefab node "x40" and its child nodes are saved.
-2023-11-26T06:28:59.239Z - info: Only the prefab node "x15_2" and its child nodes are saved.
-2023-11-26T06:31:59.216Z - info: Only the prefab node "x12" and its child nodes are saved.
-2023-11-26T06:32:06.566Z - info: Only the prefab node "x12" and its child nodes are saved.
-2023-11-26T06:35:15.178Z - info: Only the prefab node "x150" and its child nodes are saved.
-2023-11-26T06:35:28.508Z - info: Only the prefab node "x150" and its child nodes are saved.
-2023-11-26T06:35:28.916Z - info: Only the prefab node "x150" and its child nodes are saved.
-2023-11-26T06:43:07.074Z - info: Only the prefab node "x30" and its child nodes are saved.
-2023-11-26T06:45:55.680Z - warn: The Asset used by component "dragonBones.ArmatureDisplay" in prefab "x5_1.prefab" is missing. Detailed information:
-Node path: "x5_1/fish"
-Asset url: "db://assets/Prefab/Game/BanCa/fish/x005 - 001/x5_1.prefab"
-Missing uuid: "c2500599-2974-4bcb-9ae7-e6b564a0705e"
-
-2023-11-26T06:45:55.680Z - warn: The Asset used by component "dragonBones.ArmatureDisplay" in prefab "x5_1.prefab" is missing. Detailed information:
-Node path: "x5_1/fish"
-Asset url: "db://assets/Prefab/Game/BanCa/fish/x005 - 001/x5_1.prefab"
-Missing uuid: "3302eac1-1d14-4ce6-8527-8c7e2a79e429"
-
-2023-11-26T06:46:00.277Z - info: Only the prefab node "x5_1" and its child nodes are saved.
-2023-11-26T06:46:11.019Z - info: Only the prefab node "x5_1" and its child nodes are saved.
-2023-11-26T06:48:40.086Z - warn: The Asset used by component "dragonBones.ArmatureDisplay" in prefab "x2_1.prefab" is missing. Detailed information:
-Node path: "x2_1/fish"
-Asset url: "db://assets/Prefab/Game/BanCa/fish/x002 - 001/x2_1.prefab"
-Missing uuid: "b6b78da0-9efe-4925-a3df-2fbfa5f3484b"
-
-2023-11-26T06:48:41.186Z - warn: The Asset used by component "dragonBones.ArmatureDisplay" in prefab "x2_1.prefab" is missing. Detailed information:
-Node path: "x2_1/fish"
-Asset url: "db://assets/Prefab/Game/BanCa/fish/x002 - 001/x2_1.prefab"
-Missing uuid: "b6b78da0-9efe-4925-a3df-2fbfa5f3484b"
-
-2023-11-26T06:48:44.712Z - info: Only the prefab node "x2_1" and its child nodes are saved.
-2023-11-26T06:49:11.391Z - info: Only the prefab node "x2_1" and its child nodes are saved.
-2023-11-26T06:49:16.602Z - info: Only the prefab node "x2_1" and its child nodes are saved.
-2023-11-26T06:50:54.027Z - info: Only the prefab node "x2_2" and its child nodes are saved.
-2023-11-26T06:50:56.583Z - info: Only the prefab node "x2_2" and its child nodes are saved.
-2023-11-26T06:52:22.040Z - info: Only the prefab node "x2_2" and its child nodes are saved.
-2023-11-26T06:55:07.592Z - info: Only the prefab node "x4_2" and its child nodes are saved.
-2023-11-26T06:55:24.721Z - info: Only the prefab node "x4_2" and its child nodes are saved.
-2023-11-26T06:59:22.858Z - info: Only the prefab node "x4_3" and its child nodes are saved.
-2023-11-26T06:59:45.615Z - info: Only the prefab node "x4_3" and its child nodes are saved.
-2023-11-26T06:59:54.145Z - info: Only the prefab node "x4_3" and its child nodes are saved.
-2023-11-26T07:12:55.601Z - info: Only the prefab node "x12" and its child nodes are saved.
-2023-11-26T07:13:03.637Z - info: Only the prefab node "x12" and its child nodes are saved.
-2023-11-26T07:13:21.321Z - info: Only the prefab node "x12" and its child nodes are saved.
-2023-11-26T07:13:29.302Z - info: Only the prefab node "x12" and its child nodes are saved.
-2023-11-26T07:14:47.598Z - info: Only the prefab node "x2_1" and its child nodes are saved.
-2023-11-26T07:15:05.390Z - warn: Cannot place directory into itself - 8b17ba93-3f83-444a-aac6-6c94391b5768
-2023-11-26T07:15:12.696Z - warn: [db-task][refresh] uuid collision, the uuid(4b88e629-c91e-4924-b5cc-30b6c8a3f14f) for C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\assets\Prefab\Game\BanCa\fish\x012 - 001\x12.prefab is already used. A new uuid(9c46e21a-d281-4713-99a8-451d877bbf1b) will be assigned.
-2023-11-26T07:15:20.348Z - info: Only the prefab node "x12" and its child nodes are saved.
-2023-11-26T07:16:23.323Z - info: Only the prefab node "x12" and its child nodes are saved.
-2023-11-26T07:16:26.784Z - info: Only the prefab node "x12" and its child nodes are saved.
-2023-11-26T07:23:44.161Z - info: Only the prefab node "x12" and its child nodes are saved.
-2023-11-26T07:24:22.888Z - info: Only the prefab node "x50_1" and its child nodes are saved.
-2023-11-26T07:39:03.030Z - warn: The Asset used by component "cc.Sprite" in scene "Splash.fire" is missing. Detailed information:
-Node path: "Canvas/background/Logo"
-Asset url: "db://assets/Scene/Splash.fire"
-Missing uuid: "7c05c453-61a4-46c3-b702-39dbcf1cb259"
-
-2023-11-26T07:39:27.753Z - success: huawei-runtime unloaded
-2023-11-26T07:39:27.759Z - success: oppo-runtime unloaded
-2023-11-26T07:39:27.764Z - success: vivo-runtime unloaded
-2023-11-26T07:39:27.775Z - success: huawei-runtime loaded
-2023-11-26T07:39:27.775Z - success: oppo-runtime loaded
-2023-11-26T07:39:27.775Z - success: vivo-runtime loaded
-2023-11-26T07:39:27.827Z - success: huawei-runtime unloaded
-2023-11-26T07:39:27.827Z - success: oppo-runtime unloaded
-2023-11-26T07:39:27.828Z - success: vivo-runtime unloaded
-2023-11-26T07:39:27.829Z - success: huawei-runtime loaded
-2023-11-26T07:39:27.829Z - success: oppo-runtime loaded
-2023-11-26T07:39:27.830Z - success: vivo-runtime loaded
-2023-11-26T07:40:04.074Z - success: hot-update unloaded
-2023-11-26T07:40:04.078Z - success: hot-update loaded
-2023-11-26T07:43:12.010Z - normal: Start building with options : {
+2023-11-26T12:31:00.016Z - normal: Load ~/.CocosCreator/settings.json
+2023-11-26T12:31:00.067Z - normal: Initializing Asset Database
+2023-11-26T12:31:00.092Z - normal: checking language setting...
+2023-11-26T12:31:00.093Z - normal: Language: en
+2023-11-26T12:31:00.811Z - success: preview server running at http://localhost:7456
+2023-11-26T12:31:00.813Z - success: protocol editor-framework registered
+2023-11-26T12:31:00.814Z - success: protocol app registered
+2023-11-26T12:31:00.814Z - success: protocol theme registered
+2023-11-26T12:31:00.814Z - success: protocol packages registered
+2023-11-26T12:31:00.814Z - success: protocol uuid registerred
+2023-11-26T12:31:00.814Z - success: protocol db registerred
+2023-11-26T12:31:00.814Z - success: protocol thumbnail registerred
+2023-11-26T12:31:00.814Z - success: protocol unpack registerred
+2023-11-26T12:31:00.814Z - success: protocol disable-commonjs registerred
+2023-11-26T12:31:02.484Z - normal: connected!
+2023-11-26T12:31:02.485Z - normal: Check project C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
+2023-11-26T12:31:02.487Z - normal: Initializing project C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
+2023-11-26T12:31:02.542Z - success: adapters loaded
+2023-11-26T12:31:02.572Z - success: asset-db-debugger loaded
+2023-11-26T12:31:02.660Z - success: fb-audience-network loaded
+2023-11-26T12:31:02.707Z - success: fb-live-stream loaded
+2023-11-26T12:31:02.724Z - success: google-play-instant loaded
+2023-11-26T12:31:02.763Z - success: huawei-runtime loaded
+2023-11-26T12:31:02.768Z - success: jkw-adapter loaded
+2023-11-26T12:31:02.773Z - success: jsb-adapter loaded
+2023-11-26T12:31:02.806Z - success: oppo-runtime loaded
+2023-11-26T12:31:02.819Z - success: package-manager loaded
+2023-11-26T12:31:02.823Z - success: qtt-adapter loaded
+2023-11-26T12:31:02.840Z - success: runtime-dev-tools loaded
+2023-11-26T12:31:02.858Z - success: sdkbox loaded
+2023-11-26T12:31:02.870Z - success: ui-kit-preview-extra loaded
+2023-11-26T12:31:02.882Z - success: ui-kit-preview loaded
+2023-11-26T12:31:02.927Z - success: vivo-runtime loaded
+2023-11-26T12:31:02.929Z - success: alipay-minigame loaded
+2023-11-26T12:31:02.959Z - success: assets loaded
+2023-11-26T12:31:02.960Z - success: baidugame-opendata loaded
+2023-11-26T12:31:02.963Z - success: baidugame loaded
+2023-11-26T12:31:02.971Z - success: builder loaded
+2023-11-26T12:31:03.110Z - success: cocos-services loaded
+2023-11-26T12:31:03.112Z - success: console loaded
+2023-11-26T12:31:03.121Z - success: fb-instant-games loaded
+2023-11-26T12:31:03.122Z - success: game-window loaded
+2023-11-26T12:31:03.123Z - success: google-instant-games loaded
+2023-11-26T12:31:03.126Z - success: hierarchy loaded
+2023-11-26T12:31:03.128Z - success: inspector loaded
+2023-11-26T12:31:03.935Z - success: cpk-publish loaded
+2023-11-26T12:31:03.939Z - success: keystore loaded
+2023-11-26T12:31:03.954Z - success: node-library loaded
+2023-11-26T12:31:03.954Z - success: open-recent-items loaded
+2023-11-26T12:31:03.956Z - success: package-asset loaded
+2023-11-26T12:31:03.957Z - success: preferences loaded
+2023-11-26T12:31:03.958Z - success: project-exporter loaded
+2023-11-26T12:31:03.959Z - success: project-importer loaded
+2023-11-26T12:31:03.960Z - success: project-settings loaded
+2023-11-26T12:31:03.969Z - success: qtt-runtime loaded
+2023-11-26T12:31:03.971Z - success: scene loaded
+2023-11-26T12:31:03.972Z - success: simulator-debugger loaded
+2023-11-26T12:31:03.972Z - success: sprite-editor loaded
+2023-11-26T12:31:03.974Z - success: store loaded
+2023-11-26T12:31:03.976Z - success: timeline loaded
+2023-11-26T12:31:03.978Z - success: wechatgame-opendata loaded
+2023-11-26T12:31:03.982Z - success: wechatgame loaded
+2023-11-26T12:31:03.984Z - success: xiaomi-runtime loaded
+2023-11-26T12:31:04.138Z - success: im-plugin loaded
+2023-11-26T12:31:04.152Z - success: hot-update loaded
+2023-11-26T12:31:04.691Z - normal: Initializing Cocos2d
+2023-11-26T12:31:09.719Z - normal: Initializing engine extends
+2023-11-26T12:31:40.532Z - info: Cocos Service load base data!
+2023-11-26T12:31:44.025Z - normal: Loading packages
+2023-11-26T12:31:44.030Z - normal: Watching packages
+2023-11-26T12:31:44.358Z - normal: Run Application
+2023-11-26T13:23:26.526Z - success: huawei-runtime unloaded
+2023-11-26T13:23:26.533Z - success: oppo-runtime unloaded
+2023-11-26T13:23:26.539Z - success: vivo-runtime unloaded
+2023-11-26T13:23:26.547Z - success: huawei-runtime loaded
+2023-11-26T13:23:26.547Z - success: oppo-runtime loaded
+2023-11-26T13:23:26.547Z - success: vivo-runtime loaded
+2023-11-26T13:23:28.797Z - normal: Start building with options : {
   "actualPlatform": "web-mobile",
   "android": {
     "packageName": "x29.club"
@@ -324,23 +179,28 @@ Missing uuid: "7c05c453-61a4-46c3-b702-39dbcf1cb259"
   "projectName": "X29",
   "debugBuildWorker": false
 }
-2023-11-26T07:43:12.011Z - normal: Building C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
-2023-11-26T07:43:12.011Z - normal: Destination C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile
-2023-11-26T07:43:12.155Z - normal: Delete C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile\subpackages/**/*,C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile\**\*
-2023-11-26T07:43:44.059Z - normal: Start building assets
-2023-11-26T07:43:44.060Z - normal: Start spawn build-worker
-2023-11-26T07:43:44.484Z - normal: Finish spawn build-worker
-2023-11-26T07:43:44.484Z - normal: Start init build-worker
-2023-11-26T07:43:52.329Z - normal: Finish init build-worker
-2023-11-26T07:43:52.329Z - normal: Start build-assets in worker
-2023-11-26T07:44:07.505Z - warn: db://assets/Texture/icon/duoi.png has not been packed into AutoAtlas.
-2023-11-26T07:44:07.506Z - warn: db://assets/Texture/icon/lol.png has not been packed into AutoAtlas.
-2023-11-26T07:44:07.506Z - warn: db://assets/Texture/icon/background.png has not been packed into AutoAtlas.
-2023-11-26T07:44:08.653Z - normal: Finish build-assets in worker
-2023-11-26T07:44:08.672Z - normal: Finish building assets
-2023-11-26T07:44:09.181Z - normal: Start building plugin scripts
-2023-11-26T07:44:09.735Z - normal: Finish building plugin scripts
-2023-11-26T07:44:09.758Z - normal: Generating main.js from C:\CocosCreator_2.2.2\resources\static\build-templates\shares\main.js
-2023-11-26T07:44:09.801Z - normal: Generating html from C:\CocosCreator_2.2.2\resources\static\build-templates\web-mobile\template\index.html
-2023-11-26T07:44:09.865Z - normal: Built to "C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile" successfully
-2023-11-26T07:44:09.910Z - normal: SearchPath updated in built main.js for hot update
+2023-11-26T13:23:28.799Z - normal: Building C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
+2023-11-26T13:23:28.799Z - normal: Destination C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile
+2023-11-26T13:23:28.954Z - normal: Delete C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile\subpackages/**/*,C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile\**\*
+2023-11-26T13:23:35.645Z - normal: Start building assets
+2023-11-26T13:23:35.645Z - normal: Start spawn build-worker
+2023-11-26T13:23:36.028Z - normal: Finish spawn build-worker
+2023-11-26T13:23:36.028Z - normal: Start init build-worker
+2023-11-26T13:23:44.030Z - normal: Finish init build-worker
+2023-11-26T13:23:44.030Z - normal: Start build-assets in worker
+2023-11-26T13:24:06.358Z - warn: db://assets/Texture/icon/duoi.png has not been packed into AutoAtlas.
+2023-11-26T13:24:06.359Z - warn: db://assets/Texture/icon/lol.png has not been packed into AutoAtlas.
+2023-11-26T13:24:06.360Z - warn: db://assets/Texture/icon/background.png has not been packed into AutoAtlas.
+2023-11-26T13:24:07.448Z - normal: Finish build-assets in worker
+2023-11-26T13:24:07.454Z - normal: Finish building assets
+2023-11-26T13:24:07.915Z - normal: Start building plugin scripts
+2023-11-26T13:24:08.639Z - normal: Finish building plugin scripts
+2023-11-26T13:24:08.663Z - normal: Generating main.js from C:\CocosCreator_2.2.2\resources\static\build-templates\shares\main.js
+2023-11-26T13:24:08.698Z - normal: Generating html from C:\CocosCreator_2.2.2\resources\static\build-templates\web-mobile\template\index.html
+2023-11-26T13:24:08.763Z - normal: Built to "C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile" successfully
+2023-11-26T13:24:08.779Z - normal: SearchPath updated in built main.js for hot update
+2023-11-26T13:50:08.534Z - success: oppo-runtime unloaded
+2023-11-26T13:50:08.542Z - success: oppo-runtime loaded
+2023-11-26T13:50:08.596Z - success: oppo-runtime unloaded
+2023-11-26T13:50:08.598Z - success: oppo-runtime loaded
+2023-11-26T14:30:31.164Z - info: shutdown preview server

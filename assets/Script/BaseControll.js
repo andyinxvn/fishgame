@@ -100,7 +100,7 @@ module.exports = {
 		// }else{
 		// 	this.connect("go89.win", "/okelun",5678);
 		// }
-		//  this.connect("x29.club", "/okelun",443,true);
+		// this.connect("127.0.0.1", "/okelun",80);
 		this.connect("146.190.35.252", "/okelun",80);
 	},
 	init: function(){
@@ -170,6 +170,8 @@ module.exports = {
 		}
 		if (void 0 !== data.red){
 			this.user.red = data.red;
+			const event = new CustomEvent("REFRESH_BALANCE",  { detail:  this.user.red});
+        	window.dispatchEvent(event);
 		}
 		if (void 0 !== data.ketSat){
 			this.user.ketSat = data.ketSat;

@@ -1,81 +1,82 @@
-2023-11-26T12:31:00.016Z - normal: Load ~/.CocosCreator/settings.json
-2023-11-26T12:31:00.067Z - normal: Initializing Asset Database
-2023-11-26T12:31:00.092Z - normal: checking language setting...
-2023-11-26T12:31:00.093Z - normal: Language: en
-2023-11-26T12:31:00.811Z - success: preview server running at http://localhost:7456
-2023-11-26T12:31:00.813Z - success: protocol editor-framework registered
-2023-11-26T12:31:00.814Z - success: protocol app registered
-2023-11-26T12:31:00.814Z - success: protocol theme registered
-2023-11-26T12:31:00.814Z - success: protocol packages registered
-2023-11-26T12:31:00.814Z - success: protocol uuid registerred
-2023-11-26T12:31:00.814Z - success: protocol db registerred
-2023-11-26T12:31:00.814Z - success: protocol thumbnail registerred
-2023-11-26T12:31:00.814Z - success: protocol unpack registerred
-2023-11-26T12:31:00.814Z - success: protocol disable-commonjs registerred
-2023-11-26T12:31:02.484Z - normal: connected!
-2023-11-26T12:31:02.485Z - normal: Check project C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
-2023-11-26T12:31:02.487Z - normal: Initializing project C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
-2023-11-26T12:31:02.542Z - success: adapters loaded
-2023-11-26T12:31:02.572Z - success: asset-db-debugger loaded
-2023-11-26T12:31:02.660Z - success: fb-audience-network loaded
-2023-11-26T12:31:02.707Z - success: fb-live-stream loaded
-2023-11-26T12:31:02.724Z - success: google-play-instant loaded
-2023-11-26T12:31:02.763Z - success: huawei-runtime loaded
-2023-11-26T12:31:02.768Z - success: jkw-adapter loaded
-2023-11-26T12:31:02.773Z - success: jsb-adapter loaded
-2023-11-26T12:31:02.806Z - success: oppo-runtime loaded
-2023-11-26T12:31:02.819Z - success: package-manager loaded
-2023-11-26T12:31:02.823Z - success: qtt-adapter loaded
-2023-11-26T12:31:02.840Z - success: runtime-dev-tools loaded
-2023-11-26T12:31:02.858Z - success: sdkbox loaded
-2023-11-26T12:31:02.870Z - success: ui-kit-preview-extra loaded
-2023-11-26T12:31:02.882Z - success: ui-kit-preview loaded
-2023-11-26T12:31:02.927Z - success: vivo-runtime loaded
-2023-11-26T12:31:02.929Z - success: alipay-minigame loaded
-2023-11-26T12:31:02.959Z - success: assets loaded
-2023-11-26T12:31:02.960Z - success: baidugame-opendata loaded
-2023-11-26T12:31:02.963Z - success: baidugame loaded
-2023-11-26T12:31:02.971Z - success: builder loaded
-2023-11-26T12:31:03.110Z - success: cocos-services loaded
-2023-11-26T12:31:03.112Z - success: console loaded
-2023-11-26T12:31:03.121Z - success: fb-instant-games loaded
-2023-11-26T12:31:03.122Z - success: game-window loaded
-2023-11-26T12:31:03.123Z - success: google-instant-games loaded
-2023-11-26T12:31:03.126Z - success: hierarchy loaded
-2023-11-26T12:31:03.128Z - success: inspector loaded
-2023-11-26T12:31:03.935Z - success: cpk-publish loaded
-2023-11-26T12:31:03.939Z - success: keystore loaded
-2023-11-26T12:31:03.954Z - success: node-library loaded
-2023-11-26T12:31:03.954Z - success: open-recent-items loaded
-2023-11-26T12:31:03.956Z - success: package-asset loaded
-2023-11-26T12:31:03.957Z - success: preferences loaded
-2023-11-26T12:31:03.958Z - success: project-exporter loaded
-2023-11-26T12:31:03.959Z - success: project-importer loaded
-2023-11-26T12:31:03.960Z - success: project-settings loaded
-2023-11-26T12:31:03.969Z - success: qtt-runtime loaded
-2023-11-26T12:31:03.971Z - success: scene loaded
-2023-11-26T12:31:03.972Z - success: simulator-debugger loaded
-2023-11-26T12:31:03.972Z - success: sprite-editor loaded
-2023-11-26T12:31:03.974Z - success: store loaded
-2023-11-26T12:31:03.976Z - success: timeline loaded
-2023-11-26T12:31:03.978Z - success: wechatgame-opendata loaded
-2023-11-26T12:31:03.982Z - success: wechatgame loaded
-2023-11-26T12:31:03.984Z - success: xiaomi-runtime loaded
-2023-11-26T12:31:04.138Z - success: im-plugin loaded
-2023-11-26T12:31:04.152Z - success: hot-update loaded
-2023-11-26T12:31:04.691Z - normal: Initializing Cocos2d
-2023-11-26T12:31:09.719Z - normal: Initializing engine extends
-2023-11-26T12:31:40.532Z - info: Cocos Service load base data!
-2023-11-26T12:31:44.025Z - normal: Loading packages
-2023-11-26T12:31:44.030Z - normal: Watching packages
-2023-11-26T12:31:44.358Z - normal: Run Application
-2023-11-26T13:23:26.526Z - success: huawei-runtime unloaded
-2023-11-26T13:23:26.533Z - success: oppo-runtime unloaded
-2023-11-26T13:23:26.539Z - success: vivo-runtime unloaded
-2023-11-26T13:23:26.547Z - success: huawei-runtime loaded
-2023-11-26T13:23:26.547Z - success: oppo-runtime loaded
-2023-11-26T13:23:26.547Z - success: vivo-runtime loaded
-2023-11-26T13:23:28.797Z - normal: Start building with options : {
+2023-12-07T15:54:51.627Z - normal: Load ~/.CocosCreator/settings.json
+2023-12-07T15:54:51.675Z - normal: Initializing Asset Database
+2023-12-07T15:54:51.704Z - normal: checking language setting...
+2023-12-07T15:54:51.705Z - normal: Language: en
+2023-12-07T15:54:52.433Z - success: preview server running at http://localhost:7456
+2023-12-07T15:54:52.436Z - success: protocol editor-framework registered
+2023-12-07T15:54:52.436Z - success: protocol app registered
+2023-12-07T15:54:52.436Z - success: protocol theme registered
+2023-12-07T15:54:52.436Z - success: protocol packages registered
+2023-12-07T15:54:52.436Z - success: protocol uuid registerred
+2023-12-07T15:54:52.436Z - success: protocol db registerred
+2023-12-07T15:54:52.436Z - success: protocol thumbnail registerred
+2023-12-07T15:54:52.437Z - success: protocol unpack registerred
+2023-12-07T15:54:52.437Z - success: protocol disable-commonjs registerred
+2023-12-07T15:54:54.768Z - normal: connected!
+2023-12-07T15:54:54.769Z - normal: Check project C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
+2023-12-07T15:54:54.770Z - normal: Initializing project C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
+2023-12-07T15:54:54.841Z - success: adapters loaded
+2023-12-07T15:54:54.858Z - success: asset-db-debugger loaded
+2023-12-07T15:54:54.945Z - success: fb-audience-network loaded
+2023-12-07T15:54:54.990Z - success: fb-live-stream loaded
+2023-12-07T15:54:55.010Z - success: google-play-instant loaded
+2023-12-07T15:54:55.051Z - success: huawei-runtime loaded
+2023-12-07T15:54:55.057Z - success: jkw-adapter loaded
+2023-12-07T15:54:55.061Z - success: jsb-adapter loaded
+2023-12-07T15:54:55.096Z - success: oppo-runtime loaded
+2023-12-07T15:54:55.111Z - success: package-manager loaded
+2023-12-07T15:54:55.116Z - success: qtt-adapter loaded
+2023-12-07T15:54:55.136Z - success: runtime-dev-tools loaded
+2023-12-07T15:54:55.156Z - success: sdkbox loaded
+2023-12-07T15:54:55.170Z - success: ui-kit-preview-extra loaded
+2023-12-07T15:54:55.184Z - success: ui-kit-preview loaded
+2023-12-07T15:54:55.233Z - success: vivo-runtime loaded
+2023-12-07T15:54:55.236Z - success: alipay-minigame loaded
+2023-12-07T15:54:55.265Z - success: assets loaded
+2023-12-07T15:54:55.270Z - success: baidugame-opendata loaded
+2023-12-07T15:54:55.272Z - success: baidugame loaded
+2023-12-07T15:54:55.285Z - success: builder loaded
+2023-12-07T15:54:55.423Z - success: cocos-services loaded
+2023-12-07T15:54:55.426Z - success: console loaded
+2023-12-07T15:54:55.434Z - success: fb-instant-games loaded
+2023-12-07T15:54:55.436Z - success: game-window loaded
+2023-12-07T15:54:55.437Z - success: google-instant-games loaded
+2023-12-07T15:54:55.439Z - success: hierarchy loaded
+2023-12-07T15:54:55.449Z - success: inspector loaded
+2023-12-07T15:54:56.213Z - success: cpk-publish loaded
+2023-12-07T15:54:56.222Z - success: keystore loaded
+2023-12-07T15:54:56.235Z - success: node-library loaded
+2023-12-07T15:54:56.236Z - success: open-recent-items loaded
+2023-12-07T15:54:56.238Z - success: package-asset loaded
+2023-12-07T15:54:56.238Z - success: preferences loaded
+2023-12-07T15:54:56.239Z - success: project-exporter loaded
+2023-12-07T15:54:56.240Z - success: project-importer loaded
+2023-12-07T15:54:56.241Z - success: project-settings loaded
+2023-12-07T15:54:56.251Z - success: qtt-runtime loaded
+2023-12-07T15:54:56.253Z - success: scene loaded
+2023-12-07T15:54:56.254Z - success: simulator-debugger loaded
+2023-12-07T15:54:56.255Z - success: sprite-editor loaded
+2023-12-07T15:54:56.257Z - success: store loaded
+2023-12-07T15:54:56.258Z - success: timeline loaded
+2023-12-07T15:54:56.260Z - success: wechatgame-opendata loaded
+2023-12-07T15:54:56.264Z - success: wechatgame loaded
+2023-12-07T15:54:56.267Z - success: xiaomi-runtime loaded
+2023-12-07T15:54:56.438Z - success: im-plugin loaded
+2023-12-07T15:54:56.461Z - success: hot-update loaded
+2023-12-07T15:54:57.143Z - normal: Initializing Cocos2d
+2023-12-07T15:54:59.979Z - normal: Initializing engine extends
+2023-12-07T15:55:24.306Z - info: Cocos Service load base data!
+2023-12-07T15:55:29.216Z - normal: Loading packages
+2023-12-07T15:55:29.222Z - normal: Watching packages
+2023-12-07T15:55:29.570Z - normal: Run Application
+2023-12-07T16:10:01.369Z - info: Only the prefab node "ads" and its child nodes are saved.
+2023-12-07T16:10:21.260Z - success: huawei-runtime unloaded
+2023-12-07T16:10:21.261Z - success: oppo-runtime unloaded
+2023-12-07T16:10:21.262Z - success: vivo-runtime unloaded
+2023-12-07T16:10:21.264Z - success: huawei-runtime loaded
+2023-12-07T16:10:21.264Z - success: oppo-runtime loaded
+2023-12-07T16:10:21.264Z - success: vivo-runtime loaded
+2023-12-07T16:10:27.591Z - normal: Start building with options : {
   "actualPlatform": "web-mobile",
   "android": {
     "packageName": "x29.club"
@@ -179,28 +180,148 @@
   "projectName": "X29",
   "debugBuildWorker": false
 }
-2023-11-26T13:23:28.799Z - normal: Building C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
-2023-11-26T13:23:28.799Z - normal: Destination C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile
-2023-11-26T13:23:28.954Z - normal: Delete C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile\subpackages/**/*,C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile\**\*
-2023-11-26T13:23:35.645Z - normal: Start building assets
-2023-11-26T13:23:35.645Z - normal: Start spawn build-worker
-2023-11-26T13:23:36.028Z - normal: Finish spawn build-worker
-2023-11-26T13:23:36.028Z - normal: Start init build-worker
-2023-11-26T13:23:44.030Z - normal: Finish init build-worker
-2023-11-26T13:23:44.030Z - normal: Start build-assets in worker
-2023-11-26T13:24:06.358Z - warn: db://assets/Texture/icon/duoi.png has not been packed into AutoAtlas.
-2023-11-26T13:24:06.359Z - warn: db://assets/Texture/icon/lol.png has not been packed into AutoAtlas.
-2023-11-26T13:24:06.360Z - warn: db://assets/Texture/icon/background.png has not been packed into AutoAtlas.
-2023-11-26T13:24:07.448Z - normal: Finish build-assets in worker
-2023-11-26T13:24:07.454Z - normal: Finish building assets
-2023-11-26T13:24:07.915Z - normal: Start building plugin scripts
-2023-11-26T13:24:08.639Z - normal: Finish building plugin scripts
-2023-11-26T13:24:08.663Z - normal: Generating main.js from C:\CocosCreator_2.2.2\resources\static\build-templates\shares\main.js
-2023-11-26T13:24:08.698Z - normal: Generating html from C:\CocosCreator_2.2.2\resources\static\build-templates\web-mobile\template\index.html
-2023-11-26T13:24:08.763Z - normal: Built to "C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile" successfully
-2023-11-26T13:24:08.779Z - normal: SearchPath updated in built main.js for hot update
-2023-11-26T13:50:08.534Z - success: oppo-runtime unloaded
-2023-11-26T13:50:08.542Z - success: oppo-runtime loaded
-2023-11-26T13:50:08.596Z - success: oppo-runtime unloaded
-2023-11-26T13:50:08.598Z - success: oppo-runtime loaded
-2023-11-26T14:30:31.164Z - info: shutdown preview server
+2023-12-07T16:10:27.592Z - normal: Building C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
+2023-12-07T16:10:27.592Z - normal: Destination C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile
+2023-12-07T16:10:27.728Z - normal: Delete C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile\subpackages/**/*,C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile\**\*
+2023-12-07T16:10:33.330Z - normal: Start building assets
+2023-12-07T16:10:33.330Z - normal: Start spawn build-worker
+2023-12-07T16:10:33.729Z - normal: Finish spawn build-worker
+2023-12-07T16:10:33.729Z - normal: Start init build-worker
+2023-12-07T16:10:35.594Z - normal: Finish init build-worker
+2023-12-07T16:10:35.594Z - normal: Start build-assets in worker
+2023-12-07T16:10:52.019Z - warn: db://assets/Texture/icon/duoi.png has not been packed into AutoAtlas.
+2023-12-07T16:10:52.019Z - warn: db://assets/Texture/icon/lol.png has not been packed into AutoAtlas.
+2023-12-07T16:10:52.021Z - warn: db://assets/Texture/icon/background.png has not been packed into AutoAtlas.
+2023-12-07T16:10:53.305Z - normal: Finish build-assets in worker
+2023-12-07T16:10:53.313Z - normal: Finish building assets
+2023-12-07T16:10:53.642Z - normal: Start building plugin scripts
+2023-12-07T16:10:54.370Z - normal: Finish building plugin scripts
+2023-12-07T16:10:54.399Z - normal: Generating main.js from C:\CocosCreator_2.2.2\resources\static\build-templates\shares\main.js
+2023-12-07T16:10:54.446Z - normal: Generating html from C:\CocosCreator_2.2.2\resources\static\build-templates\web-mobile\template\index.html
+2023-12-07T16:10:54.498Z - normal: Built to "C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile" successfully
+2023-12-07T16:10:54.522Z - normal: SearchPath updated in built main.js for hot update
+2023-12-07T16:25:09.854Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android": {
+    "packageName": "x29.club"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "http://192.168.1.52:7456/preview-android-instant/",
+    "host": "",
+    "packageName": "org.cocos2d.pro68",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-30",
+  "appABIs": [
+    "armeabi-v7a",
+    "arm64-v8a",
+    "x86"
+  ],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "C:\\Users\\thanh\\OneDrive\\Documents\\Projects\\CocosCreator\\fishgame\\build",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "C:\\Users\\thanh\\OneDrive\\Documents\\Projects\\CocosCreator\\fishgame\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": "org.cocos2d.pro68"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.pro68"
+  },
+  "md5Cache": false,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.pro68",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "2dbb7549-feda-42b6-a6a9-86608310bcaf",
+    "be3decf7-a228-4eeb-a758-3bda0103212b",
+    "7b90d1b4-b548-498f-862e-bdefc7b9644c",
+    "347558f5-bd46-43ea-8604-192415c9cf2c",
+    "331d4109-cd15-4ff0-86f4-921ed5c786f5",
+    "1b8a2ef0-08aa-4997-b085-c3dbef3f54e5",
+    "93f25969-e926-41e7-b791-d5b79a572bb0",
+    "9185f1ae-0af5-417e-b02e-aa7216dd6690",
+    "196c72d6-6502-4fd8-b152-4bebc11f9756",
+    "89430d67-b82a-4ef6-8428-7efa5ed2a8d7",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "2449c048-de1c-43f9-944d-48dfd78fe7b9"
+  ],
+  "sourceMaps": false,
+  "startScene": "2dbb7549-feda-42b6-a6a9-86608310bcaf",
+  "template": "link",
+  "title": "X29",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "win32": {},
+  "xxteaKey": "76eb5338-ae61-4e",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\thanh\\OneDrive\\Documents\\Projects\\CocosCreator\\fishgame",
+  "projectName": "X29",
+  "debugBuildWorker": false
+}
+2023-12-07T16:25:09.854Z - normal: Building C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
+2023-12-07T16:25:09.854Z - normal: Destination C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile
+2023-12-07T16:25:09.855Z - normal: Delete C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile\subpackages/**/*,C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile\**\*
+2023-12-07T16:25:15.486Z - normal: Start building assets
+2023-12-07T16:25:15.487Z - normal: Start spawn build-worker
+2023-12-07T16:25:15.902Z - normal: Finish spawn build-worker
+2023-12-07T16:25:15.902Z - normal: Start init build-worker
+2023-12-07T16:25:17.647Z - normal: Finish init build-worker
+2023-12-07T16:25:17.648Z - normal: Start build-assets in worker
+2023-12-07T16:25:27.057Z - warn: db://assets/Texture/icon/duoi.png has not been packed into AutoAtlas.
+2023-12-07T16:25:27.058Z - warn: db://assets/Texture/icon/lol.png has not been packed into AutoAtlas.
+2023-12-07T16:25:27.059Z - warn: db://assets/Texture/icon/background.png has not been packed into AutoAtlas.
+2023-12-07T16:25:28.129Z - normal: Finish build-assets in worker
+2023-12-07T16:25:28.146Z - normal: Finish building assets
+2023-12-07T16:25:28.474Z - normal: Start building plugin scripts
+2023-12-07T16:25:29.021Z - normal: Finish building plugin scripts
+2023-12-07T16:25:29.044Z - normal: Generating main.js from C:\CocosCreator_2.2.2\resources\static\build-templates\shares\main.js
+2023-12-07T16:25:29.049Z - normal: Generating html from C:\CocosCreator_2.2.2\resources\static\build-templates\web-mobile\template\index.html
+2023-12-07T16:25:29.099Z - normal: Built to "C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame\build\web-mobile" successfully
+2023-12-07T16:25:29.127Z - normal: SearchPath updated in built main.js for hot update
+2023-12-07T16:31:37.304Z - info: shutdown preview server

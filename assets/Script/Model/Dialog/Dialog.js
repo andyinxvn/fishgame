@@ -136,26 +136,26 @@ cc.Class({
 		this.objShow     = this.settings.node;
 	},
 	showGiftCode: function(event){
-		if (!cc.RedT.IS_LOGIN) {
-			this.showSignIn();
-		}
-		if(cc.RedT.user.phone !== '') {
-			console.log(cc.RedT.user.phone);
-			this.node.active = this.GiftCode.node.active = true;
-			this.objShow     = this.GiftCode.node;
-		} else {
-			console.log(cc.RedT.user.phone);
-			cc.RedT.inGame.dialog.showProfile(null, 'BaoMat');
-			cc.RedT.inGame.dialog.profile.BaoMat.onSelectHead(null, 'DangKyOTP');
-		}
+		// if (!cc.RedT.IS_LOGIN) {
+		// 	this.showSignIn();
+		// }
+		// if(cc.RedT.user.phone !== '') {
+		// 	console.log(cc.RedT.user.phone);
+		// 	this.node.active = this.GiftCode.node.active = true;
+		// 	this.objShow     = this.GiftCode.node;
+		// } else {
+		// 	console.log(cc.RedT.user.phone);
+		// 	cc.RedT.inGame.dialog.showProfile(null, 'BaoMat');
+		// 	cc.RedT.inGame.dialog.profile.BaoMat.onSelectHead(null, 'DangKyOTP');
+		// }
 	},
 	showDEvent: function(event){
-		if (cc.RedT.IS_LOGIN) {
-			this.node.active = this.DEvent.node.active = true;
-			this.objShow     = this.DEvent.node;
-		}else{
-			this.showSignIn();
-		}
+		// if (cc.RedT.IS_LOGIN) {
+		// 	this.node.active = this.DEvent.node.active = true;
+		// 	this.objShow     = this.DEvent.node;
+		// }else{
+		// 	this.showSignIn();
+		// }
 	},
 	showPokerNap: function(obj){
 		this.node.active = this.PokerNap.node.active = true;

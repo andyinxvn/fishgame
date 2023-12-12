@@ -323,7 +323,7 @@ n(o, "SLOT3_RANK_1", "Chúc mừng <color = #F7A200>{0}</color> đã dành đư�
 n(o, "SLOT3_RANK_2", "TK <color = #F7A200>{0}</color> thắng <color = #F7A200>{1}</color> KAY {2} trước"),
 n(o, "SLOT3_HISTORY", "Bạn chơi phòng {0} và nhận được <color = #F7A200>{1}</color> {2} trước"),
 n(o, "MESSAGE_FORBIDDEN", ["napkay"]),
-n(o, "SPLASH_GET_GET_DATA", "Đang lấy dữ liệu game ..."),
+n(o, "SPLASH_GET_GET_DATA", "Downloading data ..."),
 n(o, "SPLASH_GET_CONFIG_FAILED", "Lấy dữ liệu thất bại"),
 n(o, "HOT_UPDATE_CHECKING_VERSION", "Đang kiểm tra phiên bản ..."),
 n(o, "HOT_UPDATE_RETRY", "Thử lại ..."),

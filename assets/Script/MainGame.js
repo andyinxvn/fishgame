@@ -381,19 +381,19 @@ cc.Class({
 		cc.RedT.audio.playUnClick();
 	},
 	fanpage: function(){
-		cc.sys.openURL('https://www.facebook.com/x29conggamehuyenthoai/');
+		//cc.sys.openURL('https://www.facebook.com/x29conggamehuyenthoai/');
 	},
 	// goup facebook
 	ios: function(){
-		cc.sys.openURL('https://www.facebook.com/groups/2773082479622417');
+		//cc.sys.openURL('https://www.facebook.com/groups/2773082479622417');
 	},
 	//telegram nút hỗ trợ
 	android: function(){
-		cc.sys.openURL('https://t.me/cskhx29club');
+		//cc.sys.openURL('https://t.me/cskhx29club');
 	// tele gram bot
 	},
 	telegram: function(){
-		cc.sys.openURL('https://t.me/X29_BOT');
+		//cc.sys.openURL('https://t.me/X29_BOT');
 	},
 	onGetHu: function () {
 		if (void 0 !== cc.RedT.setting.topHu.data) {

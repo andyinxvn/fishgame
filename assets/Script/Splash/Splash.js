@@ -38,7 +38,7 @@ cc.Class({
 	},
 	loadAssets: function() {
 		this.updateProgress(0);
-		this.messageLabel.string = "Đang lấy dữ liệu game ...";
+		this.messageLabel.string = "Downloading data ...";
 		setTimeout(function(){
 			this.loadScene();
 		}.bind(this), 100);
@@ -212,7 +212,7 @@ cc.Class({
 		}
 		return o.length > i.length ? -1 : 0
 	},
-	updateProgress: function(progress){
+	updateProgress: function(progress){//JS Custom
 		this.updateProgressBar.width = progress;
 		this.star.position           = cc.v2(progress, 0);
 	},

@@ -1,0 +1,71 @@
+2023-12-18T15:05:15.269Z - normal: Load ~/.CocosCreator/settings.json
+2023-12-18T15:05:15.343Z - normal: Initializing Asset Database
+2023-12-18T15:05:15.375Z - normal: checking language setting...
+2023-12-18T15:05:15.376Z - normal: Language: en
+2023-12-18T15:05:16.114Z - success: preview server running at http://localhost:7456
+2023-12-18T15:05:16.117Z - success: protocol editor-framework registered
+2023-12-18T15:05:16.117Z - success: protocol app registered
+2023-12-18T15:05:16.117Z - success: protocol theme registered
+2023-12-18T15:05:16.117Z - success: protocol packages registered
+2023-12-18T15:05:16.117Z - success: protocol uuid registerred
+2023-12-18T15:05:16.117Z - success: protocol db registerred
+2023-12-18T15:05:16.117Z - success: protocol thumbnail registerred
+2023-12-18T15:05:16.118Z - success: protocol unpack registerred
+2023-12-18T15:05:16.118Z - success: protocol disable-commonjs registerred
+2023-12-18T15:05:17.570Z - normal: connected!
+2023-12-18T15:05:17.570Z - normal: Check project C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
+2023-12-18T15:05:17.571Z - normal: Initializing project C:\Users\thanh\OneDrive\Documents\Projects\CocosCreator\fishgame
+2023-12-18T15:05:17.629Z - success: adapters loaded
+2023-12-18T15:05:17.646Z - success: asset-db-debugger loaded
+2023-12-18T15:05:17.730Z - success: fb-audience-network loaded
+2023-12-18T15:05:17.774Z - success: fb-live-stream loaded
+2023-12-18T15:05:17.794Z - success: google-play-instant loaded
+2023-12-18T15:05:17.830Z - success: huawei-runtime loaded
+2023-12-18T15:05:17.837Z - success: jkw-adapter loaded
+2023-12-18T15:05:17.842Z - success: jsb-adapter loaded
+2023-12-18T15:05:17.878Z - success: oppo-runtime loaded
+2023-12-18T15:05:17.896Z - success: package-manager loaded
+2023-12-18T15:05:17.901Z - success: qtt-adapter loaded
+2023-12-18T15:05:17.924Z - success: runtime-dev-tools loaded
+2023-12-18T15:05:17.946Z - success: sdkbox loaded
+2023-12-18T15:05:17.962Z - success: ui-kit-preview-extra loaded
+2023-12-18T15:05:17.976Z - success: ui-kit-preview loaded
+2023-12-18T15:05:18.031Z - success: vivo-runtime loaded
+2023-12-18T15:05:18.033Z - success: alipay-minigame loaded
+2023-12-18T15:05:18.065Z - success: assets loaded
+2023-12-18T15:05:18.067Z - success: baidugame-opendata loaded
+2023-12-18T15:05:18.070Z - success: baidugame loaded
+2023-12-18T15:05:18.071Z - success: builder loaded
+2023-12-18T15:05:18.215Z - success: cocos-services loaded
+2023-12-18T15:05:18.219Z - success: console loaded
+2023-12-18T15:05:18.229Z - success: fb-instant-games loaded
+2023-12-18T15:05:18.230Z - success: game-window loaded
+2023-12-18T15:05:18.231Z - success: google-instant-games loaded
+2023-12-18T15:05:18.234Z - success: hierarchy loaded
+2023-12-18T15:05:18.236Z - success: inspector loaded
+2023-12-18T15:05:19.007Z - success: cpk-publish loaded
+2023-12-18T15:05:19.016Z - success: keystore loaded
+2023-12-18T15:05:19.028Z - success: node-library loaded
+2023-12-18T15:05:19.029Z - success: open-recent-items loaded
+2023-12-18T15:05:19.030Z - success: package-asset loaded
+2023-12-18T15:05:19.032Z - success: preferences loaded
+2023-12-18T15:05:19.033Z - success: project-exporter loaded
+2023-12-18T15:05:19.035Z - success: project-importer loaded
+2023-12-18T15:05:19.036Z - success: project-settings loaded
+2023-12-18T15:05:19.046Z - success: qtt-runtime loaded
+2023-12-18T15:05:19.049Z - success: scene loaded
+2023-12-18T15:05:19.050Z - success: simulator-debugger loaded
+2023-12-18T15:05:19.050Z - success: sprite-editor loaded
+2023-12-18T15:05:19.052Z - success: store loaded
+2023-12-18T15:05:19.054Z - success: timeline loaded
+2023-12-18T15:05:19.056Z - success: wechatgame-opendata loaded
+2023-12-18T15:05:19.059Z - success: wechatgame loaded
+2023-12-18T15:05:19.064Z - success: xiaomi-runtime loaded
+2023-12-18T15:05:19.284Z - success: im-plugin loaded
+2023-12-18T15:05:19.298Z - success: hot-update loaded
+2023-12-18T15:05:19.897Z - normal: Initializing Cocos2d
+2023-12-18T15:05:22.332Z - normal: Initializing engine extends
+2023-12-18T15:06:01.682Z - normal: Loading packages
+2023-12-18T15:06:01.727Z - normal: Watching packages
+2023-12-18T15:06:02.424Z - normal: Run Application
+2023-12-18T15:06:02.625Z - info: Cocos Service load base data!

@@ -7,6 +7,7 @@ cc.Class({
 	properties: {
 		NhacNen:  CkeckOut,
 		NhacGame: CkeckOut,
+		webview: cc.Node,
 	},
 	onLoad(){
 		if (!cc.RedT.isSoundBackground()) {
@@ -51,6 +52,11 @@ cc.Class({
 		}
 	},
 	OnSignOutClick: function() {
-		cc.RedT.inGame.notice.show({title: "ĐĂNG XUẤT", text: "Xác nhận hành động.\nHành động thực hiện đăng xuất khỏi tài khoản này?", button:{type: "sign_out", text: "ĐĂNG XUẤT"}})
+		if(this.webview.opacity==255){
+			this.webview.opacity = 0;
+			this.webview.removeComponent(cc.WebView);
+		} else {
+			cc.RedT.inGame.notice.show({title: "ĐĂNG XUẤT", text: "Xác nhận hành động.\nHành động thực hiện đăng xuất khỏi tài khoản này?", button:{type: "sign_out", text: "ĐĂNG XUẤT"}})
+		}
 	},
 });

@@ -543,7 +543,7 @@
     }
   },
   "fit-height": true,
-  "fit-width": false,
+  "fit-width": true,
   "group-list": [
     "dan",
     "dan1",
@@ -568,7 +568,7 @@
     "fish134",
     "shubiao"
   ],
-  "last-module-event-record-time": 1701965427797,
+  "last-module-event-record-time": 1702822940695,
   "simulator-orientation": false,
   "simulator-resolution": {
     "height": 640,
